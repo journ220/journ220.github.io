@@ -1,0 +1,132 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700,900);
+body {
+  font-weight: 300;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  color: #111;
+  line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Mono", Courier, monospace;
+}
+
+h1, h2, h3 {
+  color: #333;
+  font-weight: 700;
+}
+
+h2 {
+  color: orange;
+}
+
+h4, h5, h6 {
+  color: #555;
+  font-weight: 400;
+}
+
+code, pre {
+  font-family: "Roboto Mono", Courier, monospace;
+  font-weight: 400;
+  color: #666;
+}
+
+blockquote {
+  border-left: 5px solid #ccc;
+  margin: 0;
+  padding: 0 1rem;
+}
+
+ul {
+  padding-left: 2rem;
+  list-style-type: square;
+  margin: 0 auto;
+}
+
+ol {
+  margin: 0.2rem auto;
+}
+
+summary {
+  cursor: pointer;
+}
+
+.emoji-icon {
+  display: inline-block;
+  transform: scale(1.3, 1.3);
+  margin-left: 3px;
+}
+
+.index a {
+  font-weight: 300;
+  color: #111;
+  text-decoration: none;
+  padding: 0 3px;
+  box-shadow: inset 0 -7px 0 0 #c1f3f5;
+}
+.index a:hover, .index a:visited, .index a:focus, .index a:active {
+  box-shadow: inset 0 -7px 0 0 #bfd9da;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.alert {
+  padding: 1rem 2rem;
+  background-color: #fff3cd;
+  border: 1px solid #ffe79a;
+}
+
+.j233 a {
+  font-weight: 700;
+  color: #357bb3;
+}
+.j233 a:visited {
+  color: #357bb3;
+}
+.j233 a:hover, .j233 a:focus, .j233 a:active {
+  color: #14568b;
+}
+
+.schedule h3 {
+  border-top: 2px solid #ccc;
+  padding-top: 1rem;
+}
+.schedule h3:first-child {
+  border-top: 0 none transparent;
+}
+.schedule h5 {
+  font-size: smaller;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+table {
+  width: 100%;
+}
+table th, table td {
+  vertical-align: top;
+}
+table td {
+  border-top: 1px solid #ccc;
+}
+table th:nth-child(1), table td:nth-child(1) {
+  text-align: left;
+}
+table th:nth-child(2), table td:nth-child(2) {
+  text-align: right;
+}
+
+footer {
+  width: 100%;
+  max-width: 550px;
+  margin: auto;
+  border-top: 1px solid #ccc;
+  text-align: center;
+}
+
+/*# sourceMappingURL=main.css.map*/
