@@ -47,10 +47,6 @@ module.exports = (config) => {
   // Everything inside static is copied verbatim to `docs`
   config.addPassthroughCopy('src/assets/static');
 
-  // pass thru j233
-  config.addPassthroughCopy('src/j233/readings');
-  config.addPassthroughCopy('src/j233/slides');
-
   // BrowserSync Overrides
   config.setBrowserSyncConfig({
     ...config.browserSyncConfig,
