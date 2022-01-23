@@ -1,0 +1,11 @@
+<nav>
+  <div class="nav--inner">
+    <header>J220</header>
+
+    <ul class="menu">
+      {% for page in collections.j220 %}
+      <li class="menu__item"><a class="menu__link" href="{{ page.url }}">{{ page.data.nav_title }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

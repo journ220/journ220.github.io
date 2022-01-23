@@ -1,5 +1,4 @@
 @import '_vars.scss';
-@import '_defaults.scss';
 
 .container {
   width: 100%;
@@ -7,14 +6,9 @@
   margin: auto;
 }
 
-.alert {
-  // width: calc(100% - 4rem - 2px);
-  // margin-top: 2rem;
-  padding: 1rem 2rem;
-  background-color: $yellow;
-  border: 1px solid darken($yellow, 10%);
-}
-
-@import '_j233.scss';
-
+@import '_nav.scss';
+@import '_main.scss';
+@import '_about.scss';
 @import '_footer.scss';
+
+@import '_defaults.scss';

@@ -18,6 +18,9 @@
     <link rel="stylesheet" href="{% webpack 'main.css' %}">
   </head>
   <body class="{{ bodyClass }}">
+
+  {% include 'nav.njk' %}
+
     <main>
       <div class="container">
       {{ content | safe }}

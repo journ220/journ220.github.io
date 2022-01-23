@@ -1,8 +1,7 @@
 lang: en
-name: JOURN220
-title: JOURN220
+name: "JOURN220"
+title: "JOURN220"
 # see https://ogp.me/#types
 type: website
 url: https://journ220.github.io
-image: https://soooh.net/favicon.ico
 description: JOURN220 at UC Berkeley's School of Journalism.

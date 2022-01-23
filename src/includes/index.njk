@@ -17,11 +17,15 @@
 
     <link rel="stylesheet" href="{% webpack 'main.css' %}">
   </head>
+
   <body class="{{ bodyClass }}">
     <main>
       <div class="container">
       {{ content | safe }}
       </div>
+
+      {% include 'footer.njk' %}
+
     </main>
     
     <script async defer src="{% webpack 'main.js' %}"></script>
