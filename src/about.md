@@ -9,7 +9,7 @@ bodyClass: about
 
 # {{ title }}
 
-## How this class works
+## How this class works 
 
 ### Course description
 
