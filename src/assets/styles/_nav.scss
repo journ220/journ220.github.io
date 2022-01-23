@@ -27,21 +27,17 @@ header {
 
 .menu__item {
   display: inline-block;
-  &:after {
-    content: ' \2022 ';
-  }
-
+  margin-right: 1rem;
   &:last-child {
     margin-right: 0;
-    &:after {
-      content: '';
-    }
   }
 }
 
 .menu__link {
   text-transform: uppercase;
   color: $nav-link-color;
+  font-size: 18px;
+  font-family: $monospace;
   &:visited {
     color: $nav-visited-color;
   }
