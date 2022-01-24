@@ -35,7 +35,8 @@ Soo:
 
 #### Homework
 - Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](assets/static/feedback_hbr.pdf) if you're paywalled)
-- [Install required tools](/syllabus/#required-tools) before the next lecture
+- [Install required tools](/about/#required-tools) before the next lecture
+  - [iClicker](https://rtl.berkeley.edu/services-programs/student-response-systems/students-getting-started-iclicker-cloud) is required for your participation grade
 - Submit [Assignment #1 in bCourses](https://bcourses.berkeley.edu/courses/1513134) by Jan. 30 at 11:59 p.m.
 
 #### Recommended
