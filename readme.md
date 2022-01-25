@@ -8,21 +8,38 @@ Course website for JOURN 220 at UC Berkeley's School of Journalism. [View the pu
 2. Run `npm install` (and `npm audit fix` if needed).
 3. Run `npm run start` to start a local server.
 
-## Branches
 
-GitHub builds [journ220.github.io](https://journ220.github.io) from the [`/docs` folder of the `main` branch].
+## Updating the curriculum
+
+Update [`src/index.md`](src/index.md) using markdown.
+
+### Assets
+
+Place static assets, such as PDFs, in `src/assets/static`. You can link to assets in [`src/index.md`](src/index.md) like so:
+
+```
+[Lecture slides](assets/static/lecture01-24.pdf)
+```
 
 
 ## Deploying changes
 
-- Stop your local server, i.e. stop `npm run start`.
-- Run `npm run build`.
-- Commit and push changes to the `main` branch.
+GitHub builds [journ220.github.io](https://journ220.github.io) from the [`/docs`](https://github.com/journ220/journ220.github.io/tree/main/docs) folder of the `main` branch.
 
-## Updating the curriculum
+- First, you must stop your local server, i.e. stop `npm run start`. If you run `npm run build` below while you have your local server running, then new files could be generated between the various git steps.
 
-You'll want to update [`src/index.md`](src/index.md).
+- Run the following commands to deploy changes:
 
-### Assets
+```sh
+# packages src/ folder contents (minifies, etc.) into docs/
+% npm run build
 
-Place static assets, such as PDFs, in `src/assets/static`.
+# adds all new files and content changes to index
+% git add .
+
+# commit changes with your own message
+% git commit -am "message tk"
+
+# push to main / deploy changes
+% git push origin main
+```
