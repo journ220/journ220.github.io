@@ -15,7 +15,7 @@ Update [`src/index.md`](src/index.md) using markdown.
 
 ### Assets
 
-Place static assets, such as PDFs, in `src/assets/static`. You can link to assets in [`src/index.md`](src/index.md) like so:
+Place static assets, such as PDFs, in [`src/assets/static`](src/assets/static). You can link to assets like so:
 
 ```
 [Lecture slides](assets/static/lecture01-24.pdf)
