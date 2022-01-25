@@ -31,7 +31,7 @@ Soo:
 ### Jan. 24
 ##### About the class, intro to HTML
 
-- [Lecture slides](assets/static/lecture01-27.pdf)
+- [Lecture slides](assets/static/lecture01-24.pdf)
 
 #### Homework
 - Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](assets/static/feedback_hbr.pdf) if you're paywalled)
