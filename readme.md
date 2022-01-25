@@ -10,14 +10,14 @@ Course website for JOURN 220 at UC Berkeley's School of Journalism. [View the pu
 
 ## Branches
 
-There are two branches: `main` and `production`. GitHub builds [journ220.github.io](https://journ220.github.io) from the [`/docs` folder of the `production` branch](https://github.com/journ220/journ220.github.io/tree/production/docs).
+GitHub builds [journ220.github.io](https://journ220.github.io) from the [`/docs` folder of the `main` branch].
 
 
 ## Deploying changes
 
-- Stop your local server, i.e. stop `npm run start`
-- Run `npm run build`
-- Push and commit changes to the `main` and `production` branches
+- Stop your local server, i.e. stop `npm run start`.
+- Run `npm run build`.
+- Commit and push changes to the `main` branch.
 
 ## Updating the curriculum
 
