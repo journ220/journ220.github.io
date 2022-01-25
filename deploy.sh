@@ -7,6 +7,7 @@ git add .
 git commit -am $1
 git push origin main
 git checkout production
+git pull origin production
 git merge main
 git push origin production
 git checkout main
