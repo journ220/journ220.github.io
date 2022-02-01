@@ -50,7 +50,7 @@ Soo:
 - Lecture recording is in bCourses, TBD
 
 #### Homework
-- Submit [Assignment #2 in bCourses](https://bcourses.berkeley.edu/courses/1513134) by Feb. 6 at 11:59 p.m.
+- Submit [Assignment #2 in bCourses](https://bcourses.berkeley.edu/courses/1513134/quizzes/2389729) by Feb. 6 at 11:59 p.m.
 
 #### Recommended
 - [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), Mozilla
