@@ -44,14 +44,23 @@ Soo:
 - ["Do you believe people are doing the best they can?"](https://www.youtube.com/watch?v=w5TkA7d7eTw) — clip of Brené Brown on Russell Brand's podcast (it's technically a video but you can play audio in background; the closed captioning is also pretty good)
 
 ### Jan. 31
-##### The HTML document; Getting started with accessibility
+##### The HTML document; Preparing a simple portfolio
 
-{#
-#- [Lecture slides](assets/static/tk.pdf)
+- Lecture slides, coming Feb. 1
+- Lecture recording is in bCourses, TBD
 
 #### Homework
-- TK
-#}
+- Submit [Assignment #2 in bCourses](https://bcourses.berkeley.edu/courses/1513134) by Feb. 6 at 11:59 p.m.
+
+#### Recommended
+- [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), Mozilla
+- [HTML reference](https://www.w3schools.com/TAGS/default.ASP), W3Schools
+- [Accessiblity in HTML (more about why semantic HTML matters)](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML), Mozilla
+- [The Essential Meta Tags for Social Media, ](https://css-tricks.com/essential-meta-tags-social-media/), CSS-Trick
+- [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML), Mozilla
+
+#### In-class assingment
+- [Portfolio template](https://docs.google.com/document/d/1OFcofDrlWkJUf8monvQEUX_2RRxzKFTcno1rVm5lRDs/edit)
 
 
 ### Feb. 7
