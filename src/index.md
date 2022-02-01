@@ -46,8 +46,8 @@ Soo:
 ### Jan. 31
 ##### The HTML document; Preparing a simple portfolio
 
-- Lecture slides, coming Feb. 1
-- Lecture recording is in bCourses, TBD
+- [Lecture slides](assets/static/lecture01-31.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-01-31`
 
 #### Homework
 - Submit [Assignment #2 in bCourses](https://bcourses.berkeley.edu/courses/1513134/quizzes/2389729) by Feb. 6 at 11:59 p.m.
