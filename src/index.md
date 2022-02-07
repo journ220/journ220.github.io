@@ -49,6 +49,9 @@ Soo:
 - [Lecture slides](assets/static/lecture01-31.pdf)
 - Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-01-31`
 
+#### In-class assignment
+- [Portfolio template](https://docs.google.com/document/d/1OFcofDrlWkJUf8monvQEUX_2RRxzKFTcno1rVm5lRDs/edit)
+
 #### Homework
 - Submit [Assignment #2 in bCourses](https://bcourses.berkeley.edu/courses/1513134/quizzes/2389729) by Feb. 6 at 11:59 p.m.
 
@@ -59,24 +62,26 @@ Soo:
 - [The Essential Meta Tags for Social Media, ](https://css-tricks.com/essential-meta-tags-social-media/), CSS-Trick
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML), Mozilla
 
-#### In-class assingment
-- [Portfolio template](https://docs.google.com/document/d/1OFcofDrlWkJUf8monvQEUX_2RRxzKFTcno1rVm5lRDs/edit)
 
 
 ### Feb. 7
-##### Intro to CSS
+##### More HTML elements; Intro to CSS
 
-{# 
-- [Lecture slides](assets/static/tk.pdf)
+- Lecture slides will be posted Feb. 8
+- Lecture recording will be posted to bCourses as soon as it's processed
+- [Download: In-class examples](assets/static/lecture0207examples.zip)
+- Updating resource: [J220 Glossary](https://docs.google.com/spreadsheets/d/1ifxaq2QCBptdbrHXvneriBvzuS70fnPYD7WGcvE_8ic/edit)
 
 #### Homework
-- TK
-#}
+- Submit [Assignment #3 in bCourses](https://bcourses.berkeley.edu/courses/1513134/) by Feb. 13 at 11:59 p.m.
+- Read about the CSS box model on [W3Schools](https://www.w3schools.com/css/css_boxmodel.asp) or on [Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
+#### Recommended
+- [J220 Glossary](https://docs.google.com/spreadsheets/d/1ifxaq2QCBptdbrHXvneriBvzuS70fnPYD7WGcvE_8ic/edit): Find more reading on HTML elements and CSS properties
 
 
 ### Feb. 14
-##### More CSS; Simple website deployment
+##### More CSS
 
 {# 
 - [Lecture slides](assets/static/tk.pdf)
@@ -123,7 +128,7 @@ Soo:
 
 
 ### Mar. 14
-##### More CSS (the CSS behind the frameworks)
+##### Simple website deployment
 
 {# 
 - [Lecture slides](assets/static/tk.pdf)
@@ -160,7 +165,6 @@ Soo:
 - TK
 
 #}
-
 
 
 ### Apr. 11
