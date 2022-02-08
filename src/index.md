@@ -67,8 +67,8 @@ Soo:
 ### Feb. 7
 ##### More HTML elements; Intro to CSS
 
-- Lecture slides will be posted Feb. 8
-- Lecture recording will be posted to bCourses as soon as it's processed
+- [Lecture slides](assets/static/lecture02-07.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-02-07`
 - [Download: In-class examples](assets/static/lecture0207examples.zip)
 - Updating resource: [J220 Glossary](https://docs.google.com/spreadsheets/d/1ifxaq2QCBptdbrHXvneriBvzuS70fnPYD7WGcvE_8ic/edit)
 
