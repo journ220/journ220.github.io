@@ -83,12 +83,19 @@ Soo:
 ### Feb. 14
 ##### More CSS
 
-{# 
-- [Lecture slides](assets/static/tk.pdf)
+- Lecture slides, coming soon
+- Lecture recording, coming soon
+- [Download: In-class CSS examples](assets/static/class_feb14.zip)
+- Updating resource: [J220 Glossary](https://docs.google.com/spreadsheets/d/1ifxaq2QCBptdbrHXvneriBvzuS70fnPYD7WGcvE_8ic/edit)
 
 #### Homework
-- TK
-#}
+- Submit [Assignment #4 in bCourses](https://bcourses.berkeley.edu/courses/1513134/quizzes/2391023) by Feb. 20 at 11:59 p.m.
+
+#### Recommended
+All of these are free! 
+- [Adobe Color](https://color.adobe.com/create/color-wheel), good for creating color schemes
+- [Material Design, Color Tool](https://material.io/resources/color/#!/?view.left=0&view.right=0), good for color schemes and checking for accessibility
+- [Color Oracle](https://colororacle.org/), Mac plugin to check for color blindness on your screen 
 
 
 ### Feb. 21 (no lecture)
