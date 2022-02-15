@@ -83,8 +83,8 @@ Soo:
 ### Feb. 14
 ##### More CSS
 
-- Lecture slides, coming soon
-- Lecture recording, coming soon
+- [Lecture slides](assets/static/lecture02-14.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-02-14`
 - [Download: In-class CSS examples](assets/static/class_feb14.zip)
 - Updating resource: [J220 Glossary](https://docs.google.com/spreadsheets/d/1ifxaq2QCBptdbrHXvneriBvzuS70fnPYD7WGcvE_8ic/edit)
 
