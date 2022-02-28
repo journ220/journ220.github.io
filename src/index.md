@@ -111,19 +111,23 @@ All of these are free!
 
 
 ### Feb. 28
-##### Wireframing
+##### HTML/CSS layouts and frameworks
+
+- Lecture slides TBD
+- Lecture recording TBD
+- Download: [In-class examples and exercises](assets/static/lecture0228examples.zip)
 
 {# 
 - [Lecture slides](assets/static/tk.pdf)
-
-#### Homework
-- TK
 #}
 
+#### Homework
+- Submit [Assignment #5 in bCourses](https://bcourses.berkeley.edu/courses/1513134/quizzes/2391023) by March 6 @ 11:59 pm.
+- Start thinking about your final project
 
 
 ### Mar. 7
-##### HTML/CSS frameworks
+##### More layouts; Simple website deployment
 
 {# 
 - [Lecture slides](assets/static/tk.pdf)
@@ -135,7 +139,7 @@ All of these are free!
 
 
 ### Mar. 14
-##### Simple website deployment
+##### Wireframing
 
 {# 
 - [Lecture slides](assets/static/tk.pdf)
@@ -151,7 +155,7 @@ All of these are free!
 
 
 ### Mar. 28
-##### CSS animations
+##### Basic JavaScript
 
 {# 
 - [Lecture slides](assets/static/tk.pdf)
@@ -175,7 +179,7 @@ All of these are free!
 
 
 ### Apr. 11
-##### Basic Javascript
+##### Intermediate CSS
 
 
 {# 
@@ -187,7 +191,7 @@ All of these are free!
 
 
 ### Apr. 18
-##### TBD
+##### More JavaScript
 
 {# 
 - [Lecture slides](assets/static/tk.pdf)
@@ -210,7 +214,7 @@ All of these are free!
 
 
 ### May 2
-##### TBD
+##### Final class (topic TBD)
 
 
 {# 
