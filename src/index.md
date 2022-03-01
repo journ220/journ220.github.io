@@ -113,13 +113,10 @@ All of these are free!
 ### Feb. 28
 ##### HTML/CSS layouts and frameworks
 
-- Lecture slides TBD
-- Lecture recording TBD
+- [Lecture slides](assets/static/lecture02-28.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-02-28`
 - Download: [In-class examples and exercises](assets/static/lecture0228examples.zip)
 
-{# 
-- [Lecture slides](assets/static/tk.pdf)
-#}
 
 #### Homework
 - Submit [Assignment #5 in bCourses](https://bcourses.berkeley.edu/courses/1513134/quizzes/2391023) by March 6 @ 11:59 pm.
