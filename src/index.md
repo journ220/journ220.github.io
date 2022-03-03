@@ -119,7 +119,7 @@ All of these are free!
 
 
 #### Homework
-- Submit [Assignment #5 in bCourses](https://bcourses.berkeley.edu/courses/1513134/quizzes/2391023) by March 6 @ 11:59 pm.
+- Submit [Assignment #5 in bCourses](https://bcourses.berkeley.edu/courses/1513134/assignments/8408943) by March 6 @ 11:59 pm.
 - Start thinking about your final project
 
 
