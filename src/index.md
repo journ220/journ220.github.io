@@ -117,8 +117,8 @@ All of these are free!
 ### Mar. 7
 ##### Simple website deployment; Accessibility
 
-- Lecture slides and recording will be posted March 8.
-{# - [Lecture slides](assets/static/tk.pdf) #}
+- [Lecture slides](assets/static/lecture03-07.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-03-07`
 
 #### Homework
 - Extra credit: [Mid-semester evaluation](https://bcourses.berkeley.edu/courses/1513134/assignments) due March 10 at 11:59 pm.
