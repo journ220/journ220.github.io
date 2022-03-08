@@ -101,15 +101,6 @@ All of these are free!
 ### Feb. 21 (no lecture)
 ##### President’s Day
 
-{# 
-- [Lecture slides](assets/static/tk.pdf)
-
-#### Homework
-- TK
-#}
-
-
-
 ### Feb. 28
 ##### HTML/CSS layouts and frameworks
 
@@ -124,16 +115,17 @@ All of these are free!
 
 
 ### Mar. 7
-##### More layouts; Simple website deployment
+##### Simple website deployment; Accessibility
 
-{# 
-- [Lecture slides](assets/static/tk.pdf)
+- Lecture slides and recording will be posted March 8.
+{# - [Lecture slides](assets/static/tk.pdf) #}
 
 #### Homework
-- TK
-#}
+- Extra credit: [Mid-semester evaluation](https://bcourses.berkeley.edu/courses/1513134/assignments) due March 10 at 11:59 pm.
+- Submit [Assignment #6](https://bcourses.berkeley.edu/courses/1513134/assignments) in bCourses by March 13 at 11:59 pm.
 
-
+#### Recommended
+- Take Apple's VoiceOver training module.
 
 ### Mar. 14
 ##### Wireframing
