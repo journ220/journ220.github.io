@@ -130,13 +130,13 @@ All of these are free!
 ### Mar. 14
 ##### Wireframing
 
-{# 
-- [Lecture slides](assets/static/tk.pdf)
+- [Lecture slides](assets/static/lecture03-14.pdf)
+- Sign up for in-class wireframe critiques and note-taking (find link in Slack)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-03-14`
 
 #### Homework
-- TK
-#}
-
+- Submit [Assignment #7](https://bcourses.berkeley.edu/courses/1513134/assignments) in bCourses by **March 27** at 11:59 pm.
+- Submit [Assignment #8](https://bcourses.berkeley.edu/courses/1513134/assignments) in bCourses by **April 10** at 11:59 pm.
 
 
 ### Mar. 21 (no lecture)
