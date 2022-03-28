@@ -146,12 +146,14 @@ All of these are free!
 ### Mar. 28
 ##### Basic JavaScript
 
-{# 
-- [Lecture slides](assets/static/tk.pdf)
+- [PRELIMINARY lecture slides](assets/static/lecture03-28_preliminary.pdf)
+- [Answer guide to Assignment #7](assets/static/assignment07_guide.zip)
+- [Download: In-class examples](assets/static/lecture0328examples.zip)
+
 
 #### Homework
-- TK
-#}
+- Submit [Extra Credit #1](https://bcourses.berkeley.edu/courses/1513134/assignments) in bCourses by **April 3** at 11:59 pm.
+- Reminder: Submit [Assignment #8](https://bcourses.berkeley.edu/courses/1513134/assignments) in bCourses by **April 10** at 11:59 pm.
 
 
 ### Apr. 4
