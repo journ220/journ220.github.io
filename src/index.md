@@ -146,7 +146,8 @@ All of these are free!
 ### Mar. 28
 ##### Basic JavaScript
 
-- [PRELIMINARY lecture slides](assets/static/lecture03-28_preliminary.pdf)
+- [Lecture slides](assets/static/lecture03-28.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-03-28`
 - [Answer guide to Assignment #7](assets/static/assignment07_guide.zip)
 - [Download: In-class examples](assets/static/lecture0328examples.zip)
 
@@ -158,15 +159,6 @@ All of these are free!
 
 ### Apr. 4
 ##### Guest lecture
-
-{# 
-
-- [Lecture slides](assets/static/tk.pdf)
-
-#### Homework
-- TK
-
-#}
 
 
 ### Apr. 11
