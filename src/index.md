@@ -160,6 +160,7 @@ All of these are free!
 ### Apr. 4
 ##### Guest lecture
 
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-04-04`
 
 ### Apr. 11
 ##### Intermediate CSS
