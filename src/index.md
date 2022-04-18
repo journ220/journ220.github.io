@@ -165,24 +165,25 @@ All of these are free!
 ### Apr. 11
 ##### Intermediate CSS
 
-
-{# 
-- [Lecture slides](assets/static/tk.pdf)
+- [Lecture slides](assets/static/lecture04-11.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-04-11`
 
 #### Homework
-- TK
-#}
+- Submit [Extra Credit #2](https://bcourses.berkeley.edu/courses/1513134/assignments) in bCourses by **April 17** at 11:59 pm.
 
 
 ### Apr. 18
 ##### More JavaScript
 
+- [Download: In-class examples](assets/static/lecture0418examples.zip)
 {# 
-- [Lecture slides](assets/static/tk.pdf)
+- [Lecture slides](assets/static/lecture04-18.pdf)
+- Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-04-18`
+#}
+
 
 #### Homework
-- TK
-#}
+- Continue to work on your final project.
 
 
 ### Apr. 25
@@ -190,23 +191,18 @@ All of these are free!
 
 
 {# 
-- [Lecture slides](assets/static/tk.pdf)
-
 #### Homework
 - TK
 #}
 
 
 ### May 2
-##### Final class (topic TBD)
+##### More CSS
 
-
-{# 
-- [Lecture slides](assets/static/tk.pdf)
+{# - [Lecture slides](assets/static/tk.pdf)
 
 #### Homework
-- TK
-#}
+- TK #}
 
 
 ### May 9 (no lecture)
