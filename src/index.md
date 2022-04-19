@@ -175,12 +175,9 @@ All of these are free!
 ### Apr. 18
 ##### More JavaScript
 
-- [Download: In-class examples](assets/static/lecture0418examples.zip)
-{# 
 - [Lecture slides](assets/static/lecture04-18.pdf)
 - Lecture recording is in bCourses' [Media Gallery](https://bcourses.berkeley.edu/courses/1513134/external_tools/78985) as `Lecture 2022-04-18`
-#}
-
+- [Download: In-class examples](assets/static/lecture0418examples.zip)
 
 #### Homework
 - Continue to work on your final project.
