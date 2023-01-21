@@ -25,23 +25,30 @@ Soo:
 - Various times on [Zoom via Calendly](https://calendly.com/soooh/j220)
 - Other times [by appointment](mailto:soo@berkeley.edu)
 
-## About
-Go to [about](#aboutLink) this class for a description and objectives.
 
 ## Lectures and assignments
 
+
+
+
+
 ### Jan. 23
-##### About the class, intro to HTML
+**About the class, intro to HTML**
 
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-01-23`
+{# - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-01-23` #}
 
 #### Homework
-- Submit [Assignment 01-23: Syllabus and Feedback in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419447) by Jan. 28 at 11:59 p.m.
+- Submit [Assignment 01-23 in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419447) by Jan. 28 at 11:59 p.m.
+
+
+
+
 
 ### Jan. 30
-##### The HTML document and semantic HTML; Getting started with accessibility
+**The HTML document and semantic HTML; Getting started with accessibility**
 
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-01-30`
 
@@ -52,23 +59,32 @@ Go to [about](#aboutLink) this class for a description and objectives.
 - [Accessiblity in HTML (more about why semantic HTML matters)](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML), Mozilla
 - [The Essential Meta Tags for Social Media, ](https://css-tricks.com/essential-meta-tags-social-media/), CSS-Trick
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML), Mozilla
+#}
+
 
 
 
 ### Feb. 6
-##### More HTML elements
+**More HTML elements**
 
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-06`
 
+
 #### Homework
 - Submit [Assignment Assignment 02-06: More HTML in bCourses] by Feb. 11 at 11:59 p.m.
+#}
+
+
+
 
 ### Feb. 13
-##### Accessibility and design
-
+**Accessibility and design**
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-13`
+
 
 #### Homework
 - Submit [Assignment 02-13: Accessibility. in bCourses] by Feb. 18 at 11:59 p.m.
@@ -77,42 +93,61 @@ Go to [about](#aboutLink) this class for a description and objectives.
 All of these are free! 
 - [Adobe Color](https://color.adobe.com/create/color-wheel), good for creating color schemes
 - [Color Oracle](https://colororacle.org/), Mac plugin to check for color blindness on your screen 
+#}
+
+
 
 
 ### Feb. 20 (no lecture)
-##### President’s Day
+**President’s Day**
+
+
 
 ### Feb. 27
-##### Intro to CSS
+**Intro to CSS**
 
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-27`
 
 #### Homework
 - Submit [Assignment 02-27 in bCourses]by March 4 @ 11:59 pm.
+#}
+
+
 
 
 ### Mar. 6
-##### More CSS + Review of previous concepts
+**More CSS + Review of previous concepts**
 
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-06`
 
 #### Homework
 - Submit [Assignment 03-06: Using same structure as #5] in bCourses by March 11 at 11:59 pm.
+#}
+
+
+
 
 ### Mar. 13
-##### More CSS
-
+**More CSS**
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-13`
 
 #### Homework
 - Submit [Assignment 03-13: Using same structure as #6] in bCourses by March 18 at 11:59 pm.
 
-### Mar. 20
-##### Grid layout and Wireframing
+#}
 
+
+
+
+### Mar. 20
+**Grid layout and Wireframing**
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-20`
 
@@ -120,46 +155,72 @@ All of these are free!
 - Submit [Assignment 03-20: Responsive] in bCourses by March 18 at 11:59 pm.
 - Final project wireframe will be due April 8.
 
+#}
+
+
+
 
 ### Mar. 27 (no lecture)
-##### Spring break
+**Spring break**
+
+
+
+
 
 ### Apr. 3
-##### GitHub Desktop
-
+**GitHub Desktop**
+{#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-04-03`
+#}
+
+
+
+
 
 ### Apr. 10
-##### Basic JavaScript
-
+**Basic JavaScript**
+{# 
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-04-10`
 
-#### Homework
+**Homework**
 - Submit [Assignment 04-10: JavaScript] in bCourses by April 15 at 11:59 pm.
+ #}
+
+
+
 
 
 ### Apr. 17
-##### Study Hall
-
+**Study Hall**
+{#  
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
 
-#### Homework
+### Homework
 - Submit [Assignment 04-17] in bCourses by April 22 at 11:59 pm.
+#}
+
+
+
 
 
 ### Apr. 24
-##### Guest lecture
+**Guest lecture TBD**
 
-
+{#  
 #### Homework
 - Submit [Assignment 04-24] in bCourses by April 29 at 11:59 pm.
+
+#}
+
+
 
 
 
 ### May 1
-##### Final class: Presentations
+**Final class: Presentations**
+
 
 
 
@@ -167,13 +228,14 @@ All of these are free!
 ### May 8 (no lecture)
 **Final projects due**
 
-
-# <a name="aboutLink"></a>About {{ title }}
 ---
 
-## How this class works 
 
-### Course description
+## About {{ title }}
+
+### How this class works 
+
+#### Course description
 
 It is increasingly hard to work in journalism without having a basic understanding of how your work will be presented online. In this course, you will be introduced to basic concepts, terms and approaches to web development, including:
 
@@ -182,18 +244,16 @@ It is increasingly hard to work in journalism without having a basic understandi
 - Wireframing and web design
 - Basic JavaScript
 
-### Objectives 
+#### Objectives 
 
 By the end of the semester, you will have the tools and knowhow to efficiently communicate with newsroom developers, graphics reporters and designers, whether you want to collaborate on creating a newsletter, a story page or even a site for your documentary or podcast. Or, you might even be interested in becoming a newsroom technologist yourself.
 
 How you present the work, the layout, page hierarchy and interactive elements are at their core critical editorial conversations that require the same thoughtfulness and discussion as any other journalism endeavor. Expect to have those critical conversations in this class, too.
 
-### Prerequisites
-
+#### Prerequisites
 None 🎉🎉
 
-
-### Required tools
+#### Required tools
 - Laptop with a Unix or Unix-like operating system (e.g. all Macbooks; a Dell, Lenovo, or ThinkPad with Ubuntu; tell me at class if you have something else)
 - [GitHub.com](https://github.com) account (it's free)
 - Text editor: We highly recommend [Sublime Text](https://www.sublimetext.com/), which is more user-friendly for new coders
@@ -201,44 +261,19 @@ None 🎉🎉
 - [Polls Everywhere](https://www.polleverywhere.com/) account
 - Proactive inclusivity of and respectful communication with fellow students and instructors
 
-### Grading rubric
-
+#### Grading rubric
 TBD
 
-## Proposed course schedule
 
-We will make adjustments to the class schedule depending on students' progress and interests.
-
-| Lecture date | Topic                                                 |
-|--------------|-------------------------------------------------------|
-| Jan. 23      | About the class, intro to HTML                        |
-| Jan. 30      | Semantic HTML; Getting started with accessibility     |
-| Feb. 6       | More HTML elements                                    |
-| Feb. 13      | Accessibility and design                              |
-| Feb. 20      | **President's Day (no lecture)**                      |
-| Feb. 27      | Intro to CSS                                          |
-| Mar. 6       | More CSS + Review of previous concepts                |
-| Mar. 13      | More CSS                                              |
-| Mar. 20      | Grid layout and Wireframing                           |
-| Mar. 27      | **Spring break (no lecture)**                         |
-| Apr. 3       | Github Desktop                                        |
-| Apr. 10      | Basic Javascript                                      |
-| Apr. 17      | Study Hall                                            |
-| Apr. 24      | Guest Lecture                                         |
-| May 1        | Final class: Presentations                            |
-| May 8        | **No lecture; Final projects due**                    |
-
-
-
-## Class expectations
+### Class expectations
 
 The success of this course depends on the level of commitment of each student. It’s up to you to carry out your class work and speak up about any concerns or difficulties you have. In return, I will do my best to provide a clear lesson plan, give you timely feedback, and advise you so you can achieve the course’s objectives.
 
 The [Student Code of Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf) is in effect at all times. Additionally, all students must follow the [COVID-19 Health & Safety Response](https://conduct.berkeley.edu/wp-content/uploads/2021/08/Fall-2021-COVID-19-CSC-Reporting-Expectations.pdf).
 
-### Attendance and punctuality
+#### Attendance and punctuality
 
-We meet 14 times for lecture during the fall semester.
+We meet 13 times for lecture during the spring semester.
 
 Two unexcused absences will result in dropping a full letter grade; three unexcused absences will result in an F.
 
@@ -252,12 +287,12 @@ We will make course materials available on this website and can help you to a re
 
 No matter how OK you feel, don’t come to class if you think you’re contagious (with a cold, flu, strep, coronavirus, etc). Barring technical mishaps, we can hold a live Zoom or record the lecture depending on how you’re feeling. However, there is a risk that the wifi is choppy, the recording messes up, or some other problem. Again, it's ultimately your responsibility to catch up with the class. Talk to me about how.
 
-### Assignment deadlines
+#### Assignment deadlines
 
 All assignments must be submitted on time in bCourses. There will be no exceptions made for late assignments except for medical reasons and family emergencies. An assignment will be dropped a full letter grade for every 24 hours that pass after the deadline, starting the minute after the deadline (e.g. an assignment with no mistakes will be graded as 90% one minute after deadline, 80% one minute and 24 hours after deadline, and so on).
 
 
-### Participation in class
+#### Participation in class
 
 - You’re expected to adhere to the [Guidelines for Dialogue & Community Expectations](https://drive.google.com/file/d/1ZsFEfFYUUi_3dBivFXGO9aKlc-4iiklv/view).
 
@@ -269,7 +304,7 @@ All assignments must be submitted on time in bCourses. There will be no exceptio
 
 - Required readings will be discussed in class.
 
-## Academic dishonesty and plagiarism
+### Academic dishonesty and plagiarism
 
 The high academic standard at the University of California, Berkeley, is reflected in each degree that is awarded. As a result, it is up to every student to maintain this high standard by ensuring that all academic work reflects their own ideas or properly attributes the ideas to the original sources. These are some basic expectations of students with regards to academic integrity:
 
@@ -281,7 +316,7 @@ The high academic standard at the University of California, Berkeley, is reflect
 
 I’m so glad you asked. If you were stuck and found code online to help you, link to the resource in your documentation, either in the code comments or in a markdown block for a notebook. Make sure you format or rewrite the code in the preferred style of your programming language (single or double quotes, snake_case or camelCase, and so on).
 
-## Disabled Students’ Program
+### Disabled Students’ Program
 
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me.
 
@@ -290,7 +325,7 @@ If you have a disability, or think you may have a disability, you can work with 
 Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkelely.edu. 
 
 
-## Additional student services
+### Additional student services
 
 - [Berkeley Journalism Student Services](http://myjschool.com) will help with questions and services related to advising and course registration, career development, funding and financial aid, and more.
 - [Basic Needs Center](https://basicneeds.berkeley.edu/) provides support with all the essential resources (food, housing, etc.) needed to not only survive, but thrive here at UC Berkeley.
