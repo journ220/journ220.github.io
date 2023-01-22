@@ -1,8 +1,6 @@
 .main {
-  h3 {
-    border-top: 3px dashed #397375;
-    padding-top: 1rem;
-    margin-bottom: 0;
+  h2 {
+    margin-top: 3rem;
   }
   h5 {
     margin-top: 0;
@@ -28,5 +26,32 @@
   td:first-child {
     font-weight: bold;
     width: 110px;
+  }
+}
+
+// section
+.lecture {
+  padding: 1.2rem;
+  margin-bottom: 2rem;
+  background-color: rgb(57 115 117 / 8%);
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+
+  h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  h4 {
+    margin-bottom: 0.5rem;
+  }
+  ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  p:last-child {
+    margin-bottom: 0;
   }
 }

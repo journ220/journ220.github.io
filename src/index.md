@@ -18,35 +18,37 @@ bodyClass: main
 
 ## Office hours
 
-Yoli:
+**Yoli**
 - Monday/Tuesday/Friday, various times on [Zoom via Calendly](https://calendly.com/yolimartinez/)
 
-Soo:
+**Soo**
 - Various times on [Zoom via Calendly](https://calendly.com/soooh/j220)
 - Other times [by appointment](mailto:soo@berkeley.edu)
 
 
+<section class="lectures">
+
 ## Lectures and assignments
 
 
+<section class="lecture">
 
+### Jan. 23: About the class; Intro to HTML
 
-
-### Jan. 23
-**About the class, intro to HTML**
-
-- Lecture slides TBD
+- Preliminary lecture slides TBD
 {# - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-01-23` #}
 
 #### Homework
+- Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](assets/static/feedback_hbr.pdf) if you're paywalled)
 - Submit [Assignment 01-23 in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419447) by Jan. 28 at 11:59 p.m.
 
 
+</section>
+
+<section class="lecture">
 
 
-
-### Jan. 30
-**The HTML document and semantic HTML; Getting started with accessibility**
+### Jan. 30: The HTML document and semantic HTML; Getting started with accessibility
 
 {#  
 - Lecture slides TBD
@@ -62,10 +64,12 @@ Soo:
 #}
 
 
+</section>
+
+<section class="lecture">
 
 
-### Feb. 6
-**More HTML elements**
+### Feb. 6: More HTML elements
 
 {#  
 - Lecture slides TBD
@@ -77,10 +81,13 @@ Soo:
 #}
 
 
+</section>
+
+<section class="lecture">
 
 
-### Feb. 13
-**Accessibility and design**
+
+### Feb. 13: Accessibility and design
 {#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-13`
@@ -96,15 +103,22 @@ All of these are free!
 #}
 
 
+</section>
+
+<section class="lecture">
 
 
-### Feb. 20 (no lecture)
-**President’s Day**
+
+### Feb. 20: President’s Day
+**No lecture**
 
 
+</section>
 
-### Feb. 27
-**Intro to CSS**
+<section class="lecture">
+
+
+### Feb. 27: Intro to CSS
 
 {#  
 - Lecture slides TBD
@@ -116,9 +130,13 @@ All of these are free!
 
 
 
+</section>
 
-### Mar. 6
-**More CSS + Review of previous concepts**
+<section class="lecture">
+
+
+
+### Mar. 6: More CSS
 
 {#  
 - Lecture slides TBD
@@ -129,10 +147,13 @@ All of these are free!
 #}
 
 
+</section>
+
+<section class="lecture">
 
 
-### Mar. 13
-**More CSS**
+
+### Mar. 13: More CSS
 {#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-13`
@@ -144,9 +165,13 @@ All of these are free!
 
 
 
+</section>
 
-### Mar. 20
-**Grid layout and Wireframing**
+<section class="lecture">
+
+
+
+### Mar. 20: Grid layout and wireframing
 {#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-20`
@@ -158,17 +183,23 @@ All of these are free!
 #}
 
 
+</section>
 
-
-### Mar. 27 (no lecture)
-**Spring break**
-
-
+<section class="lecture">
 
 
 
-### Apr. 3
-**GitHub Desktop**
+### Mar. 27: Spring break
+**No lecture**
+
+
+</section>
+
+<section class="lecture">
+
+
+
+### Apr. 3: GitHub Desktop
 {#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-04-03`
@@ -176,10 +207,13 @@ All of these are free!
 
 
 
+</section>
+
+<section class="lecture">
 
 
-### Apr. 10
-**Basic JavaScript**
+
+### Apr. 10: Basic JavaScript
 {# 
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-04-10`
@@ -190,10 +224,13 @@ All of these are free!
 
 
 
+</section>
+
+<section class="lecture">
 
 
-### Apr. 17
-**Study Hall**
+
+### Apr. 17: Study Hall
 {#  
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
 
@@ -203,10 +240,13 @@ All of these are free!
 
 
 
+</section>
+
+<section class="lecture">
 
 
-### Apr. 24
-**Guest lecture TBD**
+
+### Apr. 24: Guest lecture TBD
 
 {#  
 #### Homework
@@ -216,19 +256,26 @@ All of these are free!
 
 
 
+</section>
 
-
-### May 1
-**Final class: Presentations**
-
-
+<section class="lecture">
 
 
 
-### May 8 (no lecture)
-**Final projects due**
+### May 1: Presentations
+**Final class**
 
----
+
+</section>
+
+<section class="lecture">
+
+### May 8: Final Projects due
+**No lecture**
+
+</section>
+
+
 
 
 ## About {{ title }}
@@ -258,7 +305,7 @@ None 🎉🎉
 - [GitHub.com](https://github.com) account (it's free)
 - Text editor: We highly recommend [Sublime Text](https://www.sublimetext.com/), which is more user-friendly for new coders
 - [Color Oracle](https://colororacle.org/) (accessibility tool for Mac)
-- [Polls Everywhere](https://www.polleverywhere.com/) account
+- [Poll Everywhere](https://www.polleverywhere.com/) account
 - Proactive inclusivity of and respectful communication with fellow students and instructors
 
 #### Grading rubric
