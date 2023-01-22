@@ -35,11 +35,11 @@ bodyClass: main
 
 ### Jan. 23: About the class; Intro to HTML
 
-- Preliminary lecture slides TBD
+- [Preliminary lecture slides](assets/static/lecture01-23-preliminary.pdf)
 {# - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-01-23` #}
 
 #### Homework
-- Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](assets/static/feedback_hbr.pdf) if you're paywalled)
+- 📖 Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](assets/static/feedback_hbr.pdf) if you're paywalled)
 - Submit [Assignment 01-23 in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419447) by Jan. 28 at 11:59 p.m.
 
 
