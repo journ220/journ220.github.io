@@ -30,23 +30,21 @@ bodyClass: main
 
 ## Lectures and assignments
 
-
-<section class="lecture">
+<section class="lecture" data-date="2023-01-23">
 
 ### Jan. 23: About the class; Intro to HTML
 
-- [Preliminary lecture slides](assets/static/lecture01-23-preliminary.pdf)
-{# - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-01-23` #}
+- [Slides](assets/static/lecture01-23.pdf)
+- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-23`
 
 #### Homework
 - Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](assets/static/feedback_hbr.pdf) if you're paywalled)
 - Submit [Assignment 01-23 in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419447) by Jan. 28 at 11:59 p.m.
 - Sign up for [office hours](#office-hours) between tomorrow and Feb. 17 with Yoli or Soo (just one of us). This is a 5-point assignment. Schedule before the next lecture for full credit; you will get partial credit if you do not book before Jan. 30.
 
-
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-01-30">
 
 
 ### Jan. 30: The HTML document and semantic HTML; Getting started with accessibility
@@ -67,7 +65,7 @@ bodyClass: main
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-02-06">
 
 
 ### Feb. 6: More HTML elements
@@ -84,7 +82,7 @@ bodyClass: main
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-02-13">
 
 ### Feb. 13: Accessibility and design
 {#  
@@ -104,7 +102,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-02-20">
 
 ### Feb. 20: President’s Day
 **No lecture**
@@ -112,7 +110,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-02-27">
 
 
 ### Feb. 27: Intro to CSS
@@ -129,7 +127,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-03-06">
 
 ### Mar. 6: More CSS
 
@@ -144,7 +142,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-03-13">
 
 
 
@@ -162,7 +160,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-03-20">
 
 ### Mar. 20: Grid layout and wireframing
 {#  
@@ -178,7 +176,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-03-27">
 
 
 
@@ -188,7 +186,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-04-03">
 
 
 
@@ -202,7 +200,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-04-10">
 
 
 ### Apr. 10: Basic JavaScript
@@ -218,7 +216,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-04-17">
 
 
 
@@ -234,7 +232,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-04-24">
 
 
 
@@ -250,7 +248,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-05-01">
 
 
 
@@ -260,7 +258,7 @@ All of these are free!
 
 </section>
 
-<section class="lecture">
+<section class="lecture" data-date="2023-05-08">
 
 ### May 8: Final Projects due
 **No lecture**
