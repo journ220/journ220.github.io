@@ -49,18 +49,15 @@ bodyClass: main
 
 ### Jan. 30: The HTML document and semantic HTML; Getting started with accessibility
 
-{#  
-- Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-01-30`
+- [Preliminary lecture slides](assets/static/lecture01-30-preliminary.pdf)
+- Lecture recording will be posted Tuesday
 
 #### Homework
-- Submit [Assignment 01-30: Semantic HTML in bCourses] by Feb. 4 at 11:59 p.m.
+- Submit [Assignment 01-30: Semantic HTML in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2420377) by Feb. 4 at 11:59 p.m.
 
 #### Recommended
-- [Accessiblity in HTML (more about why semantic HTML matters)](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML), Mozilla
-- [The Essential Meta Tags for Social Media, ](https://css-tricks.com/essential-meta-tags-social-media/), CSS-Trick
+- [Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements), Mozilla
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML), Mozilla
-#}
 
 
 </section>
