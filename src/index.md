@@ -34,11 +34,11 @@ bodyClass: main
 
 ### Jan. 23: About the class; Intro to HTML
 
-- [Lecture slides](assets/static/lecture01-23.pdf)
+- [Lecture slides](./assets/static/lecture01-23.pdf)
 - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-23`
 
 #### Homework
-- Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](assets/static/feedback_hbr.pdf) if you're paywalled)
+- Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](./assets/static/feedback_hbr.pdf) if you're paywalled)
 - Submit [Assignment 01-23 in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419447) by Jan. 28 at 11:59 p.m.
 - Sign up for [office hours](#office-hours) between tomorrow and Feb. 17 with Yoli or Soo (just one of us). This is a 5-point assignment. Schedule before the next lecture for full credit; you will get partial credit if you do not book before Jan. 30.
 
@@ -49,7 +49,7 @@ bodyClass: main
 
 ### Jan. 30: The HTML document and semantic HTML; Getting started with accessibility
 
-- [Lecture slides](assets/static/lecture01-30.pdf)
+- [Lecture slides](./assets/static/lecture01-30.pdf)
 - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-30`
 
 #### Homework
@@ -66,8 +66,9 @@ bodyClass: main
 
 ### Feb. 6: More HTML elements
 
-- [Preliminary lecture slides](assets/static/lecture02-06_preliminary.pdf)
-- How to indent in bCourses: [slides](assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985)
+- [Preliminary lecture slides](./assets/static/lecture02-06_preliminary.pdf)
+- [Lesson materials](./assets/static/lecture02-06.zip)
+- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985)
 {# - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-06` #}
 
 #### Homework
