@@ -66,10 +66,10 @@ bodyClass: main
 
 ### Feb. 6: More HTML elements
 
-- [Preliminary lecture slides](./assets/static/lecture02-06_preliminary.pdf)
+- [Lecture slides](./assets/static/lecture02-06.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-06`
 - [Lesson materials](./assets/static/lecture02-06.zip)
 - How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985)
-{# - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-06` #}
 
 #### Homework
 - Submit [Assignment 02-06: More HTML elements](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422627) in bCourses by Feb. 11 at 11:59 p.m.
@@ -97,7 +97,7 @@ Helpful Codecademy tutorials:
 
 {#  
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-13`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-13`
 
 #### Homework
 - Submit [Assignment 02-13: Accessibility]() in bCourses by Feb. 18 at 11:59 p.m.
@@ -126,7 +126,7 @@ All of these are free!
 
 {#  
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-27`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-27`
 
 #### Homework
 - Submit [Assignment 02-27 in bCourses]by March 4 @ 11:59 pm.
@@ -142,7 +142,7 @@ All of these are free!
 
 {#  
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-06`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-03-06`
 
 #### Homework
 - Submit [Assignment 03-06: Using same structure as #5]() in bCourses by March 11 at 11:59 pm.
@@ -158,7 +158,7 @@ All of these are free!
 ### Mar. 13: More CSS
 {#  
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-13`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-03-13`
 
 #### Homework
 - Submit [Assignment 03-13: Using same structure as #6]() in bCourses by March 18 at 11:59 pm.
@@ -174,7 +174,7 @@ All of these are free!
 ### Mar. 20: Grid layout and wireframing
 {#  
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-20`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-03-20`
 
 #### Homework
 - Submit [Assignment 03-20: Responsive] in bCourses by March 18 at 11:59 pm.
@@ -202,7 +202,7 @@ All of these are free!
 ### Apr. 3: GitHub Desktop
 {#  
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-04-03`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-04-03`
 #}
 
 
@@ -215,7 +215,7 @@ All of these are free!
 ### Apr. 10: Basic JavaScript
 {# 
 - Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-04-10`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-04-10`
 
 **Homework**
 - Submit [Assignment 04-10: JavaScript] in bCourses by April 15 at 11:59 pm.
