@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html class="html" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Lecture 2022-02-06</title>
+  <meta name="description" content="Examples of semantic HTML">
+
+
+    <!-- Usually, it's better to separate <style> into a different file. You'll
+    learn that next week! -->
+
+    <style>
+      section {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+      }
+
+    </style>
+</head>
+<body>
+  <header>
+    <h1>J220: Feb. 6 Lecture</h1>
+
+    <nav>
+      <ul>
+        <li><a href="#lists">Lists</a></li>
+        <li><a href="#pullquotes">Pullquotes</a></li>
+        <li><a href="#figures">Figures</a></li>
+        <li><a href="#tables">Tables</a></li>
+        
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="lists">
+
+      <h2>Lists</h2>
+
+      <h3>Unordered list, with list items</h3>
+      <ul>
+        <li>Monday</li>
+        <li>Tuesday</li>
+        <li>Wednesday</li>
+        <li>Thursday</li>
+        <li>Friday</li>
+      </ul>
+
+      <h3>Ordered list, with list items</h3>
+      <ol>
+        <li>Apples</li>
+        <li>Arugula</li>
+        <li>Berries</li>
+        <li>Cauliflower</li>
+        <li>Chips</li>
+      </ol>
+
+    </section>
+
+    <section id="pullquotes">
+
+      <h2>Pullquotes and blockquotes</h2>
+
+      <h3>Asides</h3>
+
+      <aside>
+        <p>‘We’re just going to do that case like every other. I 
+        don’t know why it’s shocking to people. If it turns out 
+        that charges legitimate, we’re going to bring them.’</p>
+      </aside>
+
+      <h3>Blockquotes</h3>
+
+      <p>From <a href="https://html.spec.whatwg.org/#semantics-2">W3C's HTML standard</a></p>
+
+      <blockquote cite="https://html.spec.whatwg.org/#semantics-2">
+        <p>“Elements, attributes, and attribute values in HTML are 
+        defined … to have certain meanings (semantics). … These 
+        definitions allow HTML processors, such as web browsers or 
+        search engines, to present and use documents and 
+        applications in a wide variety of contexts that the author 
+        might not have considered.”</p>
+      </blockquote>
+      
+    </section>
+
+    <section id="figures">
+
+      <h2>Figure</h2>
+
+      <figure>
+        <img src="./assets/illus6.jpg" alt="Line drawing of a bear
+        named Winnie-the-Pooh falling out of tree">
+        <figcaption>Winnie-the-Pooh falls out of a tree. 
+        (Ernest H. Shepard)</figcaption>
+      </figure>
+
+    </section>
+
+    <section id="tables">
+
+      <table>
+        <caption>Contact information for J220 lecturers</caption>
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Soo Oh</td>
+            <td>soo@berkeley.edu</td>
+          </tr>
+          <tr>
+            <td>Yoli Martinez</td>
+            <td>yolanda_martinez@berkeley.edu</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </section>
+  
+  </main>
+
+  <footer>
+    &copy; 2023
+  </footer>
+</body>
+</html>

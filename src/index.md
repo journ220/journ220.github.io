@@ -10,8 +10,8 @@ bodyClass: main
 # Intro to Coding
 
 **Term:** Spring 2023
-**Instructors:** Yoli Martinez, Soo Oh
-**Contact:** yolanda_martinez@berkeley.edu | soo@berkeley.edu | [Berkeley Slack](https://berkeleyjschool.slack.com)
+**Instructors:** Yoli Martinez ([email](mailto:yolanda_martinez@berkeley.edu)) and Soo Oh ([email](mailto:soo@berkeley.edu))
+**Announcements:**  [Berkeley Slack](https://berkeleyjschool.slack.com)
 **Lecture:** Mondays, 6-9pm in 108 North Gate (Lower Newsroom)
 **Class website:** This is it (you're here!) https://journ220.github.io
 **Turn in assignments:** Use the class link for [bCourses](https://bcourses.berkeley.edu/courses/1520541)
@@ -34,7 +34,7 @@ bodyClass: main
 
 ### Jan. 23: About the class; Intro to HTML
 
-- [Slides](assets/static/lecture01-23.pdf)
+- [Lecture slides](assets/static/lecture01-23.pdf)
 - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-23`
 
 #### Homework
@@ -49,48 +49,57 @@ bodyClass: main
 
 ### Jan. 30: The HTML document and semantic HTML; Getting started with accessibility
 
-- [Slides](assets/static/lecture01-30.pdf)
+- [Lecture slides](assets/static/lecture01-30.pdf)
 - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-30`
 
 #### Homework
-- Submit [Assignment 01-30: Semantic HTML in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2420377) by Feb. 4 at 11:59 p.m.
+- Submit [Assignment 01-30: Semantic HTML](https://bcourses.berkeley.edu/courses/1520541/quizzes/2420377) in bCourses by Feb. 4 at 11:59 p.m.
 
 #### Recommended
 - [Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements), Mozilla
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML), Mozilla
 - [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/), CSS-Tricks
 
-
-
 </section>
 
 <section class="lecture" data-date="2023-02-06">
 
-
 ### Feb. 6: More HTML elements
 
-{#  
-- Lecture slides TBD
-- Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-06`
-
+- [Preliminary lecture slides](assets/static/lecture02-06_preliminary.pdf)
+- How to indent in bCourses: [slides](assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985)
+{# - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-06` #}
 
 #### Homework
-- Submit [Assignment Assignment 02-06: More HTML in bCourses] by Feb. 11 at 11:59 p.m.
-#}
+- Submit [Assignment 02-06: More HTML elements](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422627) in bCourses by Feb. 11 at 11:59 p.m.
+- Read [Meet the first-ever accessibility engineer at The Washington Post](https://www.niemanlab.org/2023/02/meet-the-first-ever-accessibility-engineer-at-the-washington-post/), Nieman Lab
 
+#### Recommended
+
+The following links have different sections; you are free to read whatever interests you.
+
+- [Images tutorial](https://www.w3.org/WAI/tutorials/images/): dealing with decorative images, images of text, etc.
+- [Tables tutorial](https://www.w3.org/WAI/tutorials/tables/): different kinds of tables with different kinds of header rows and columns
+
+Helpful Codecademy tutorials:
+- [HTML Document Standards](https://www.codecademy.com/courses/learn-html/lessons/html-document-standards/)
+- [Introduction to Semantic HTML](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/)
+- [Tables](https://www.codecademy.com/courses/learn-html/lessons/html-tables)
 
 </section>
 
 <section class="lecture" data-date="2023-02-13">
 
 ### Feb. 13: Accessibility and design
+
+**Guest lecture:** [Holden Foreman](https://twitter.com/hsforeman), the Washington Post's first accessibility engineer
+
 {#  
 - Lecture slides TBD
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-02-13`
 
-
 #### Homework
-- Submit [Assignment 02-13: Accessibility. in bCourses] by Feb. 18 at 11:59 p.m.
+- Submit [Assignment 02-13: Accessibility]() in bCourses by Feb. 18 at 11:59 p.m.
 
 #### Recommended
 All of these are free! 
@@ -135,7 +144,7 @@ All of these are free!
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-06`
 
 #### Homework
-- Submit [Assignment 03-06: Using same structure as #5] in bCourses by March 11 at 11:59 pm.
+- Submit [Assignment 03-06: Using same structure as #5]() in bCourses by March 11 at 11:59 pm.
 #}
 
 
@@ -151,7 +160,7 @@ All of these are free!
 - Lecture recording is in bCourses' [Media Gallery TBD] as `Lecture 2023-03-13`
 
 #### Homework
-- Submit [Assignment 03-13: Using same structure as #6] in bCourses by March 18 at 11:59 pm.
+- Submit [Assignment 03-13: Using same structure as #6]() in bCourses by March 18 at 11:59 pm.
 
 #}
 
@@ -224,7 +233,7 @@ All of these are free!
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
 
 ### Homework
-- Submit [Assignment 04-17] in bCourses by April 22 at 11:59 pm.
+- Submit [Assignment 04-17]() in bCourses by April 22 at 11:59 pm.
 #}
 
 
@@ -239,16 +248,13 @@ All of these are free!
 
 {#  
 #### Homework
-- Submit [Assignment 04-24] in bCourses by April 29 at 11:59 pm.
+- Submit [Assignment 04-24]() in bCourses by April 29 at 11:59 pm.
 
 #}
-
-
 
 </section>
 
 <section class="lecture" data-date="2023-05-01">
-
 
 
 ### May 1: Presentations
