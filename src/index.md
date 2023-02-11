@@ -82,7 +82,7 @@ The following links have different sections; you are free to read whatever inter
 - [Images tutorial](https://www.w3.org/WAI/tutorials/images/): dealing with decorative images, images of text, etc.
 - [Tables tutorial](https://www.w3.org/WAI/tutorials/tables/): different kinds of tables with different kinds of header rows and columns
 
-Helpful Codecademy tutorials:
+**Helpful Codecademy tutorials**
 - [HTML Document Standards](https://www.codecademy.com/courses/learn-html/lessons/html-document-standards/)
 - [Introduction to Semantic HTML](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/)
 - [Tables](https://www.codecademy.com/courses/learn-html/lessons/html-tables)
@@ -95,19 +95,22 @@ Helpful Codecademy tutorials:
 
 **Guest lecture:** [Holden Foreman](https://twitter.com/hsforeman), the Washington Post's first accessibility engineer
 
-{#  
-- Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-13`
+{# 
+- [Lecture slides](./assets/static/lecture02-06.pdf) 
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-13` 
+
+- [Preliminary lecture slides](./assets/static/lecture02-06_prelim.pdf) 
+- Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
 
 #### Homework
 - Submit [Assignment 02-13: Accessibility]() in bCourses by Feb. 18 at 11:59 p.m.
 
 #### Recommended
-All of these are free! 
-- [Adobe Color](https://color.adobe.com/create/color-wheel), good for creating color schemes
-- [Color Oracle](https://colororacle.org/), Mac plugin to check for color blindness on your screen 
-#}
 
+We don't have lecture next week! You can catch up with HTML or get ahead on CSS with the following Codecademy tutorials:
+- [Learn HTML](https://www.codecademy.com/learn/learn-html), everything in the Syllabus except the "Forms" section
+- [Learn CSS](https://www.codecademy.com/learn/learn-css), specifically the first set of lessons called "Syntax and Selectors"
+#}
 
 </section>
 
@@ -115,7 +118,6 @@ All of these are free!
 
 ### Feb. 20: President’s Day
 **No lecture**
-
 
 </section>
 
