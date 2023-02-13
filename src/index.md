@@ -100,17 +100,19 @@ The following links have different sections; you are free to read whatever inter
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-13` 
 
 - [Preliminary lecture slides](./assets/static/lecture02-06_prelim.pdf) 
+#}
+
 - Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
 
+
 #### Homework
-- Submit [Assignment 02-13: Accessibility]() in bCourses by Feb. 18 at 11:59 p.m.
+- Submit [Assignment 02-13: Accessibility](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422681) in bCourses by Feb. 18 at 11:59 p.m.
 
 #### Recommended
 
 We don't have lecture next week! You can catch up with HTML or get ahead on CSS with the following Codecademy tutorials:
 - [Learn HTML](https://www.codecademy.com/learn/learn-html), everything in the Syllabus except the "Forms" section
 - [Learn CSS](https://www.codecademy.com/learn/learn-css), specifically the first set of lessons called "Syntax and Selectors"
-#}
 
 </section>
 
