@@ -67,7 +67,7 @@ bodyClass: main
 ### Feb. 6: More HTML elements
 
 - [Lecture slides](./assets/static/lecture02-06.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-06`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-06`
 - [Lesson materials](./assets/static/lecture02-06.zip)
 - How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985)
 
@@ -95,16 +95,11 @@ The following links have different sections; you are free to read whatever inter
 
 **Guest lecture:** [Holden Foreman](https://twitter.com/hsforeman), the Washington Post's first accessibility engineer
 
-
-- [Preliminary lecture slides](./assets/static/lecture02-13-preliminary.pdf)
+- [Lecture slides](./assets/static/lecture02-13.pdf)
+- [Guest lecture slides: Holden Foreman on accessibility](./assets/static/holden_foreman_accessibility.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) in 2 parts, starting with `Lecture 02-13` 
 - [HTML answers for Assignment 02-06](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
 - Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
-
-{# 
-- [Lecture slides](./assets/static/lecture02-06.pdf) 
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-13` 
- #}
-
 
 #### Homework
 - Submit [Assignment 02-13: Accessibility](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422681) in bCourses by Feb. 18 at 11:59 p.m.
@@ -126,12 +121,11 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 <section class="lecture" data-date="2023-02-27">
 
-
 ### Feb. 27: Intro to CSS
 
 {#  
 - Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-27`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-27`
 
 #### Homework
 - Submit [Assignment 02-27 in bCourses]by March 4 @ 11:59 pm.
@@ -147,30 +141,25 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 {#  
 - Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-03-06`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-06`
 
 #### Homework
 - Submit [Assignment 03-06: Using same structure as #5]() in bCourses by March 11 at 11:59 pm.
 #}
 
-
 </section>
 
 <section class="lecture" data-date="2023-03-13">
 
-
-
 ### Mar. 13: More CSS
 {#  
 - Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-03-13`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13`
 
 #### Homework
 - Submit [Assignment 03-13: Using same structure as #6]() in bCourses by March 18 at 11:59 pm.
 
 #}
-
-
 
 </section>
 
@@ -179,7 +168,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 ### Mar. 20: Grid layout and wireframing
 {#  
 - Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-03-20`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-20`
 
 #### Homework
 - Submit [Assignment 03-20: Responsive] in bCourses by March 18 at 11:59 pm.
@@ -202,36 +191,29 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 <section class="lecture" data-date="2023-04-03">
 
-
-
 ### Apr. 3: GitHub Desktop
 {#  
 - Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-04-03`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-03`
 #}
-
-
 
 </section>
 
 <section class="lecture" data-date="2023-04-10">
 
-
 ### Apr. 10: Basic JavaScript
 {# 
 - Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-04-10`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-10`
 
 **Homework**
 - Submit [Assignment 04-10: JavaScript] in bCourses by April 15 at 11:59 pm.
  #}
 
 
-
 </section>
 
 <section class="lecture" data-date="2023-04-17">
-
 
 
 ### Apr. 17: Study Hall
@@ -243,11 +225,9 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 #}
 
 
-
 </section>
 
 <section class="lecture" data-date="2023-04-24">
-
 
 
 ### Apr. 24: Guest lecture TBD
@@ -262,10 +242,8 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 <section class="lecture" data-date="2023-05-01">
 
-
 ### May 1: Presentations
 **Final class**
-
 
 </section>
 
@@ -275,8 +253,6 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 **No lecture**
 
 </section>
-
-
 
 
 ## About the class
