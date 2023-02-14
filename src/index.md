@@ -97,6 +97,7 @@ The following links have different sections; you are free to read whatever inter
 
 
 - [Preliminary lecture slides](./assets/static/lecture02-13-preliminary.pdf)
+- [HTML answers for Assignment 02-06](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
 
 {# 
 - [Lecture slides](./assets/static/lecture02-06.pdf) 
