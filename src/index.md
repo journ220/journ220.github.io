@@ -98,14 +98,12 @@ The following links have different sections; you are free to read whatever inter
 
 - [Preliminary lecture slides](./assets/static/lecture02-13-preliminary.pdf)
 - [HTML answers for Assignment 02-06](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
+- Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
 
 {# 
 - [Lecture slides](./assets/static/lecture02-06.pdf) 
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-13` 
  #}
-
-
-- Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
 
 
 #### Homework
