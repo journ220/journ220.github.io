@@ -95,12 +95,14 @@ The following links have different sections; you are free to read whatever inter
 
 **Guest lecture:** [Holden Foreman](https://twitter.com/hsforeman), the Washington Post's first accessibility engineer
 
+
+- [Preliminary lecture slides](./assets/static/lecture02-13-preliminary.pdf)
+
 {# 
 - [Lecture slides](./assets/static/lecture02-06.pdf) 
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 2023-02-13` 
+ #}
 
-- [Preliminary lecture slides](./assets/static/lecture02-06_prelim.pdf) 
-#}
 
 - Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
 
