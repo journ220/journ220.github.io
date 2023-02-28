@@ -123,13 +123,16 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Feb. 27: Intro to CSS
  
-- [Preliminary Lecture slides](./assets/static/lecture02-27_preliminary.pdf)
-{# 
+- [Lecture slides](./assets/static/lecture02-27.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-27`
+- [Lesson materials](./assets/static/importingCSS.zip)
 
 #### Homework
-- Submit [Assignment 02-27 in bCourses]by March 4 @ 11:59 pm.
-#}
+- Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March 4 at 11:59 p.m.
+
+#### Recommended
+- All [named color values](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color) available, via Mozilla
+- List of all [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), with explainations on how to use. We're covering the most common in class. 
 
 
 
