@@ -122,9 +122,9 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-02-27">
 
 ### Feb. 27: Intro to CSS
-
-{#  
-- Lecture slides TBD
+ 
+- [Preliminary Lecture slides](./assets/static/lecture02-27_preliminary.pdf)
+{# 
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-27`
 
 #### Homework
