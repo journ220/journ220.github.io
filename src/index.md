@@ -141,14 +141,15 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-03-06">
 
 ### Mar. 6: More CSS
-
-{#  
-- Lecture slides TBD
+ 
+- [Lecture slides](./assets/static/lecture03-06.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-06`
+- [Lesson materials](./assets/static/lecture0306.zip)
 
 #### Homework
+- Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March 11 at 11:59 p.m.
 - Submit [Assignment 03-06: Using same structure as #5]() in bCourses by March 11 at 11:59 pm.
-#}
+
 
 </section>
 
