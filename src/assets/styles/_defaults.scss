@@ -36,7 +36,50 @@ code {
 
 // block
 pre {
-  
+
+}
+
+
+del {
+  padding: 0 5px;
+  background-color: pink;
+  text-decoration: line-through;
+  &:before, &:after {
+    clip-path: inset(100%);
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+  &:before {
+    content: " [deletion start] ";
+  }
+  &:after {
+    content: " [deletion end] ";
+  }
+}
+
+ins {
+  padding: 0 5px;
+  background-color: rgb(198, 229, 198);
+  text-decoration: none;
+  &:before, &:after {
+    clip-path: inset(100%);
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
+  &:before {
+    content: " [insertion start] ";
+  }
+  &:after {
+    content: " [insertion end] ";
+  }
 }
 
 blockquote {

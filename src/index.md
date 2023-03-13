@@ -2,7 +2,7 @@
 tags: j220
 nav_title: Home
 layout: default
-title: "J220: Intro to Coding" 
+title: "J220: Intro to Coding"
 htmlClass: html
 bodyClass: main
 ---
@@ -97,7 +97,7 @@ The following links have different sections; you are free to read whatever inter
 
 - [Lecture slides](./assets/static/lecture02-13.pdf)
 - [Guest lecture slides: Holden Foreman on accessibility](./assets/static/holden_foreman_accessibility.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) in 2 parts, starting with `Lecture 02-13` 
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) in 2 parts, starting with `Lecture 02-13`
 - [HTML answers for Assignment 02-06](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
 - Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
 
@@ -122,18 +122,17 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-02-27">
 
 ### Feb. 27: Intro to CSS
- 
+
 - [Lecture slides](./assets/static/lecture02-27.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-27`
 - [Lesson materials](./assets/static/importingCSS.zip)
 
 #### Homework
-- Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March 4 at 11:59 p.m.
+- <ins>EXTENDED:</ins> Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March <del>4</del> <ins>11</ins> at 11:59 p.m.</del>
 
 #### Recommended
 - All [named color values](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color) available, via Mozilla
-- List of all [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), with explainations on how to use. We're covering the most common in class. 
-
+- List of all [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), with explanations on how to use. We're covering the most common in class.
 
 
 </section>
@@ -141,14 +140,15 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-03-06">
 
 ### Mar. 6: More CSS
- 
+
 - [Lecture slides](./assets/static/lecture03-06.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-06`
-- [Lesson materials](./assets/static/lecture0306.zip)
+- [Lesson materials](./assets/static/lecture_0306.zip)
 
 #### Homework
 - Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March 11 at 11:59 p.m.
-- Submit [Assignment 03-06: Using same structure as #5]() in bCourses by March 11 at 11:59 pm.
+- Submit [Assignment 03-06: CSS](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422631) in bCourses by March 11 at 11:59 p.m.
+
 
 
 </section>
@@ -156,7 +156,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-03-13">
 
 ### Mar. 13: More CSS
-{#  
+{#
 - Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13`
 
@@ -170,7 +170,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-03-20">
 
 ### Mar. 20: Grid layout and wireframing
-{#  
+{#
 - Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-20`
 
@@ -196,7 +196,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-04-03">
 
 ### Apr. 3: GitHub Desktop
-{#  
+{#
 - Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-03`
 #}
@@ -206,7 +206,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-04-10">
 
 ### Apr. 10: Basic JavaScript
-{# 
+{#
 - Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-10`
 
@@ -221,7 +221,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 
 ### Apr. 17: Study Hall
-{#  
+{#
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
 
 ### Homework
@@ -236,7 +236,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Apr. 24: Guest lecture TBD
 
-{#  
+{#
 #### Homework
 - Submit [Assignment 04-24]() in bCourses by April 29 at 11:59 pm.
 
@@ -270,7 +270,7 @@ It is increasingly hard to work in journalism without having a basic understandi
 - Wireframing and web design
 - Basic JavaScript
 
-### Objectives 
+### Objectives
 
 By the end of the semester, you will have the tools and knowhow to efficiently communicate with newsroom developers, graphics reporters and designers, whether you want to collaborate on creating a newsletter, a story page or even a site for your documentary or podcast. Or, you might even be interested in becoming a newsroom technologist yourself.
 
@@ -331,9 +331,9 @@ All assignments must be submitted on time in bCourses. There will be no exceptio
 
 - You’re expected to adhere to the [Guidelines for Dialogue & Community Expectations](https://drive.google.com/file/d/1ZsFEfFYUUi_3dBivFXGO9aKlc-4iiklv/view).
 
-- Set your phone to silent or Do Not Disturb mode before class begins. Do not answer calls or text during class. If it’s an emergency, quietly step outside to take the call. 
+- Set your phone to silent or Do Not Disturb mode before class begins. Do not answer calls or text during class. If it’s an emergency, quietly step outside to take the call.
 
-- Students should not check email, social media, notifications, or the news during the lecture portions of the class. 
+- Students should not check email, social media, notifications, or the news during the lecture portions of the class.
 
 - Students should learn how to receive both positive and critical feedback. Your work will be subject to intensive and substantial editing. It’s not personal, and learning how to take it is a tremendous part of learning how to grow and as a human, as a journalist.
 
@@ -355,9 +355,9 @@ I’m so glad you asked. If you were stuck and found code online to help you, li
 
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with us.
 
-If you have a disability, or think you may have a disability, you can work with the Disabled Students’ Program (DSP) to request an official accommodation. DSP is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: https://dsp.berkeley.edu. If you have already been approved for accommodations through DSP, please meet with us so we can develop an implementation plan together. 
+If you have a disability, or think you may have a disability, you can work with the Disabled Students’ Program (DSP) to request an official accommodation. DSP is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: https://dsp.berkeley.edu. If you have already been approved for accommodations through DSP, please meet with us so we can develop an implementation plan together.
 
-Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkelely.edu. 
+Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkelely.edu.
 
 
 ## Additional student services
