@@ -134,6 +134,8 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - All [named color values](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color) available, via Mozilla
 - List of all [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), with explanations on how to use. We're covering the most common in class.
 
+**Helpful Codecademy tutorials**
+- Codecademy: [CSS box model and layout](https://www.codecademy.com/learn/learn-css-box-model-and-layout)
 
 </section>
 
@@ -149,20 +151,27 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March 11 at 11:59 p.m.
 - Submit [Assignment 03-06: CSS](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422631) in bCourses by March 11 at 11:59 p.m.
 
-
-
 </section>
 
 <section class="lecture" data-date="2023-03-13">
 
 ### Mar. 13: More CSS
+
 {#
 - Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13`
 
 #### Homework
-- Submit [Assignment 03-13: Using same structure as #6]() in bCourses by March 18 at 11:59 pm.
+- Submit [Assignment 03-13: Hand-code HTML #2]() in bCourses by March 18 at 11:59 pm.
+- Submit [Mid-semester feedback survey (extra credit)](https://bcourses.berkeley.edu/courses/1520541/quizzes/2425190) in bCourses by March 18 at 11:59 pm.
 
+#### Recommended
+
+**Helpful Codecademy tutorials**
+- [CSS: display, position](https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning/)
+- [CSS: color](https://www.codecademy.com/courses/learn-css/lessons/color/)
+- [CSS: typography](https://www.codecademy.com/courses/learn-css/lessons/css-typography/)
+- [CSS: transitions, animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations)
 #}
 
 </section>
