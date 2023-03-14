@@ -157,26 +157,22 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Mar. 13: More CSS
 
-{#
-- Lecture slides TBD
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13`
+- Lecture slides TBD {# - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13` #}
 - Homework review
   - [Assignment 02-27: example website](./assets/static/assignment02-27.zip)
   - [Assignment 03-06: CSS and grading criteria](https://docs.google.com/document/d/1XTdhlvu4-uFny8l8BwPO0TFdke_1FrJyzR9OT-q6DsQ/edit)
 - In-class exercise: [Make a simple portfolio](https://docs.google.com/document/d/1qG-Qx8P6aeD8kGvofbfF5Hs45EU9aVO8W-zvbf1TxEw/edit)
 
 #### Homework
-- Submit [Assignment 03-13: Hand-code HTML #2]() in bCourses by March 18 at 11:59 pm.
 - Submit [Mid-semester feedback survey (extra credit)](https://bcourses.berkeley.edu/courses/1520541/quizzes/2425190) in bCourses by March 18 at 11:59 pm.
 
-#### Recommended
+#### Recommended for next week
 
 **Helpful Codecademy tutorials**
 - [CSS: display, position](https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning/)
 - [CSS: color](https://www.codecademy.com/courses/learn-css/lessons/color/)
 - [CSS: typography](https://www.codecademy.com/courses/learn-css/lessons/css-typography/)
 - [CSS: transitions, animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations)
-#}
 
 </section>
 
