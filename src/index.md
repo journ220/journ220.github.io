@@ -157,7 +157,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Mar. 13: More CSS
 
-- Lecture slides TBD {# - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13` #}
+- [Lecture slides](./assets/static/lecture03-13.pdf)  {# - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13` #}
 - Homework review
   - [Assignment 02-27: example website](./assets/static/assignment02-27.zip)
   - [Assignment 03-06: CSS and grading criteria](https://docs.google.com/document/d/1XTdhlvu4-uFny8l8BwPO0TFdke_1FrJyzR9OT-q6DsQ/edit)
