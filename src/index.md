@@ -178,16 +178,18 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 <section class="lecture" data-date="2023-03-20">
 
-### Mar. 20: Grid layout and wireframing
+### Mar. 20: More CSS, Design and Wireframing
+
+- [Preliminary Lecture slides](./assets/static/lecture03-20_preliminary.pdf)
 {#
-- Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-20`
+#}
 
 #### Homework
-- Submit [Assignment 03-20: Responsive] in bCourses by March 18 at 11:59 pm.
-- Final project wireframe will be due April 8.
+- Submit [Assignment 03-20: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422682) in bCourses by March 25 at 11:59 pm.
+- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) in bcourses by April 15 at 11:59pm. Availiable early so you can review the grading rubric as you think about the final project options.
 
-#}
+
 
 
 </section>
