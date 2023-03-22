@@ -180,7 +180,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Mar. 20: More CSS, Design and Wireframing
 
-- [Lecture slides](./assets/static/lecture03-20_preliminary.pdf)
+- [Lecture slides](./assets/static/lecture03-20.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-20`
 - [Lesson materials](./assets/static/lecture_0320.zip)
 - For wireframes, you can use [wireframe.cc](https://wireframe.cc), Figma, Adobe Illustrator, Google Slides
