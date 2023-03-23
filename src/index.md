@@ -186,7 +186,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - For wireframes, you can use [wireframe.cc](https://wireframe.cc), Figma, Adobe Illustrator, Google Slides
 
 #### Homework
-- Submit [Assignment 03-20: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422682) in bCourses by March 25 at 11:59 pm.
+- Submit [Assignment 03-20: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422682) in bCourses by April 1 at 11:59 pm.
 - Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) in bcourses by April 15 at 11:59pm. Availiable early so you can review the grading rubric as you think about the final project options.
 
 
