@@ -207,7 +207,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 <section class="lecture" data-date="2023-04-03">
 
-### Apr. 3: GitHub Desktop
+### Apr. 3: Layout and HTML frameworks
 {#
 - Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-03`
@@ -232,7 +232,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-04-17">
 
 
-### Apr. 17: Study Hall
+### Apr. 17: GitHub + Study Hall
 {#
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
 
@@ -246,7 +246,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" data-date="2023-04-24">
 
 
-### Apr. 24: Guest lecture TBD
+### Apr. 24: Guest lecture
 
 {#
 #### Homework
