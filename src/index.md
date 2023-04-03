@@ -187,31 +187,37 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 #### Homework
 - Submit [Assignment 03-20: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422682) in bCourses by April 1 at 11:59 pm.
-- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) in bcourses by April 15 at 11:59pm. Availiable early so you can review the grading rubric as you think about the final project options.
-
-
-
-
+- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) in bCourses by April 15 at 11:59pm. Available early so you can review the grading rubric as you think about the final project options.
 
 </section>
 
 <section class="lecture" data-date="2023-03-27">
 
-
-
 ### Mar. 27: Spring break
 **No lecture**
-
 
 </section>
 
 <section class="lecture" data-date="2023-04-03">
 
 ### Apr. 3: Layout and HTML frameworks
+
+- [Lecture materials](./assets/static/lecture04-03.zip)
+- [Preliminary lecture slides](./assets/static/lecture04-03_prelim.pdf)
 {#
-- Lecture slides TBD
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-03`
 #}
+
+**Helpful links**
+
+- [Mozilla: CSS grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [Mozilla: CSS flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Codecademy: CSS flexbox and grid](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
+
+
+#### Homework
+- Submit [Assignment 04-03](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426317) in bCourses by April 8 at 11:59 pm.
+- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) in bCourses by April 15 at 11:59pm.
 
 </section>
 
@@ -226,11 +232,9 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - Submit [Assignment 04-10: JavaScript] in bCourses by April 15 at 11:59 pm.
  #}
 
-
 </section>
 
 <section class="lecture" data-date="2023-04-17">
-
 
 ### Apr. 17: GitHub + Study Hall
 {#
@@ -240,11 +244,9 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - Submit [Assignment 04-17]() in bCourses by April 22 at 11:59 pm.
 #}
 
-
 </section>
 
 <section class="lecture" data-date="2023-04-24">
-
 
 ### Apr. 24: Guest lecture
 
@@ -269,7 +271,6 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 **No lecture**
 
 </section>
-
 
 ## About the class
 
