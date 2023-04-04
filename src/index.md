@@ -203,10 +203,8 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 ### Apr. 3: Layout and HTML frameworks
 
 - [Lecture materials](./assets/static/lecture04-03.zip)
-- [Preliminary lecture slides](./assets/static/lecture04-03_prelim.pdf)
-{#
+- [Lecture slides](./assets/static/lecture04-03.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-03`
-#}
 
 **Helpful links**
 
