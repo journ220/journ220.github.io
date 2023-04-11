@@ -187,7 +187,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 #### Homework
 - Submit [Assignment 03-20: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422682) in bCourses by April 1 at 11:59 pm.
-- Submit final project [Wireframe](LINK TK) in bCourses by April 15 at 11:59pm. Available early so you can review the grading rubric as you think about the final project options.
+- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) <ins>(link will be fixed on April 11)</ins> in bCourses by April 15 at 11:59pm. Available early so you can review the grading rubric as you think about the final project options.
 
 </section>
 
@@ -215,27 +215,24 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 #### Homework
 - Submit [Assignment 04-03](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426317) in bCourses by April 8 at 11:59 pm.
-- Submit final project [Wireframe](LINK TK) in bCourses by April 15 at 11:59pm.
+- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) <ins>(link will be fixed on April 11)</ins> in bCourses by April 15 at 11:59pm.
 
 </section>
 
 <section class="lecture" data-date="2023-04-10">
 
 ### Apr. 10: Basic JavaScript
-- [Preliminary lecture slides](./assets/static/lecture04-10.pdf)
+- [Lecture slides](./assets/static/lecture04-10.pdf)
 - [Lecture materials](./assets/static/lecture04-10.zip)
-- Lecture recording not yet ready
-
-{#
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-10`
- #}
 
 **Homework (all due April 16 at 11:59 pm)**
 
-You have an extra day for homework. You'll get an extra credit point if you submit your homework by April 15 at 11:59 pm.
+You have an extra day for homework (due on Sunday night instead of Saturday night).
+
 - Submit [April 17 food survey](https://docs.google.com/forms/d/e/1FAIpQLScA54mOX60NagYQVzClnXxn9UEQiX6XY_noHbNTXqdT5Haz_Q/viewform)
-- [This will be posted on April 11] Submit [Assignment 04-10: CSS/JavaScript](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422688) in bCourses
-- Submit [Final Project Wireframe](LINK TK) in bCourses
+- Submit [Assignment 04-10: CSS/JavaScript](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422688) <ins>(link will be active on April 11)</ins> in bCourses. You'll get one extra credit point if you submit this assignment by April 15 at 11:59 pm.
+- Submit [Final Project Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) <ins>(link will be fixed on April 11)</ins> in bCourses.
 
 **Optional**
 - [Codecademy: Build interactive websites](https://www.codecademy.com/learn/build-interactive-websites)
