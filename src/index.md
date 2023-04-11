@@ -231,8 +231,8 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 You have an extra day for homework (due on Sunday night instead of Saturday night).
 
 - Submit [April 17 food survey](https://docs.google.com/forms/d/e/1FAIpQLScA54mOX60NagYQVzClnXxn9UEQiX6XY_noHbNTXqdT5Haz_Q/viewform)
-- Submit [Assignment 04-10: CSS/JavaScript](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422688) <ins>(link will be active on April 11)</ins> in bCourses. You'll get one extra credit point if you submit this assignment by April 15 at 11:59 pm.
-- Submit [Final Project Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) <ins>(link will be fixed on April 11)</ins> in bCourses.
+- Submit [Assignment 04-10: CSS/JavaScript](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422688) in bCourses. You'll get one extra credit point if you submit this assignment by April 15 at 11:59 pm.
+- Submit [Final Project Wireframe](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426689) in bCourses.
 
 **Optional**
 - [Codecademy: Build interactive websites](https://www.codecademy.com/learn/build-interactive-websites)
