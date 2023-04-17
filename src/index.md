@@ -243,12 +243,13 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 <section class="lecture" data-date="2023-04-17">
 
 ### Apr. 17: GitHub + Study Hall
-{#
+- [Preliminary lecture slides](./assets/static/lecture04-17_prelim.pdf)
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
 
-### Homework
-- Submit [Assignment 04-17]() in bCourses by April 22 at 11:59 pm.
-#}
+#### Homework
+- Submit [Assignment 04-17](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422684) in bCourses by April 22 at 11:59 pm.
+- Do you have any questions you'd like to ask our April 24 guest panel? Add questions to the [bottom of this Google Doc](https://docs.google.com/document/d/1Qi3Yvu77hzQ4FWqKHeUJ-12rkQXWKB4DqmACEqodwfU/edit#heading=h.pmxy10z9sjf3) (you need to be logged into your Berkeley account to suggest questions).
+
 
 </section>
 
@@ -259,7 +260,6 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 {#
 #### Homework
 - Submit [Assignment 04-24]() in bCourses by April 29 at 11:59 pm.
-
 #}
 
 </section>
