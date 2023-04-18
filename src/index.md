@@ -245,6 +245,7 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 ### Apr. 17: GitHub + Study Hall
 - [Lecture slides](./assets/static/lecture04-17.pdf)
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-10: Part I`, `Lecture 04-10: Part II` and `Lecture 04-10: Part III`
 
 #### Homework
 - Submit [Assignment 04-17](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422684) in bCourses by April 22 at 11:59 pm.
