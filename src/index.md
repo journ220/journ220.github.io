@@ -250,7 +250,7 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 #### Homework
 - Submit [Assignment 04-17](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422684) in bCourses by April 22 at 11:59 pm.
 - Do you have any questions you'd like to ask our April 24 guest panel? Add questions to the [bottom of this Google Doc](https://docs.google.com/document/d/1Qi3Yvu77hzQ4FWqKHeUJ-12rkQXWKB4DqmACEqodwfU/edit#heading=h.pmxy10z9sjf3) (you need to be logged into your Berkeley account to suggest questions).
-- <ins>**Wireframe extention**:</ins> Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426689) in bCourses by April 20 at 11:59pm. Refer to the rubric, which was also shared in the [class slack](https://berkeleyjschool.slack.com/archives/C02TY3N6K9U/p1681331308990149). 
+- <ins>**Wireframe extension**:</ins> Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426689) in bCourses by April 20 at 11:59pm. Refer to the rubric, which was also shared in the [class slack](https://berkeleyjschool.slack.com/archives/C02TY3N6K9U/p1681331308990149).
 
 
 </section>
@@ -258,10 +258,14 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 <section class="lecture" data-date="2023-04-24">
 
 ### Apr. 24: Guest panel
-
 {#
+- [Lecture slides](./assets/static/lecture04-24.pdf)
+#}
+
 #### Homework
 - Submit [Assignment 04-24](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422634) in bCourses by April 29 at 11:59 pm.
+{#
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-24`
 #}
 
 </section>
