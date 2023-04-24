@@ -258,12 +258,22 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 <section class="lecture" data-date="2023-04-24">
 
 ### Apr. 24: Guest panel
+
+Our guests:
+- [Nancy DeVille](https://twitter.com/devillenews), Editorial Project Manager at The Atlantic
+- [Gabe Hongsdusit](https://twitter.com/ghongsdusit), Visual Designer at The Markup
+- [Evan Wagstaff](https://twitter.com/EvanWagstaff), Director of Newsroom Engineering at Hearst Newspapers
+
+
 {#
 - [Lecture slides](./assets/static/lecture04-24.pdf)
 #}
 
 #### Homework
 - Submit [Assignment 04-24](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422634) in bCourses by April 29 at 11:59 pm.
+- Get ready for class presentations by reviewing the [rubric on bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449).
+- Review [Final Project rubric](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422630).
+
 {#
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-24`
 #}
@@ -275,12 +285,18 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 ### May 1: Presentations
 **Final class**
 
+You'll be presenting your work in progress to the class for feedback. Review the [rubric on bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449).
+
+- [Peer Feedback](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449) is due May 2 (day after lecture) at 11:59 pm.
+
 </section>
 
 <section class="lecture" data-date="2023-05-08">
 
 ### May 12: Final Projects due
 **No lecture**
+
+Submit [Final Project](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422630) by 11:59 pm.
 
 </section>
 
