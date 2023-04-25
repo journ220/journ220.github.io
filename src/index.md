@@ -257,17 +257,14 @@ You have an extra day for homework (due on Sunday night instead of Saturday nigh
 
 <section class="lecture" data-date="2023-04-24">
 
-### Apr. 24: Guest panel
+### Apr. 24: Career panel
+- [Lecture slides](./assets/static/lecture04-24.pdf) (mostly just announcements)
 
 Our guests:
 - [Nancy DeVille](https://twitter.com/devillenews), Editorial Project Manager at The Atlantic
 - [Gabe Hongsdusit](https://twitter.com/ghongsdusit), Visual Designer at The Markup
 - [Evan Wagstaff](https://twitter.com/EvanWagstaff), Director of Newsroom Engineering at Hearst Newspapers
 
-
-{#
-- [Lecture slides](./assets/static/lecture04-24.pdf)
-#}
 
 #### Homework
 - Submit [Assignment 04-24](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422634) in bCourses by April 29 at 11:59 pm.
