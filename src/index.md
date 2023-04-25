@@ -271,10 +271,6 @@ Our guests:
 - Get ready for class presentations by reviewing the [rubric on bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449).
 - Review [Final Project rubric](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422630).
 
-{#
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-24`
-#}
-
 </section>
 
 <section class="lecture" data-date="2023-05-01">
