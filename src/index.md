@@ -281,6 +281,8 @@ Our guests:
 You'll be presenting your work in progress to the class for feedback. Review the [rubric on bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449).
 
 - [Peer Feedback](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449) is due May 2 (day after lecture) at 11:59 pm.
+- [Lecture slides](./assets/static/lecture05-01.pdf) (with important dates)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 05-01`
 
 </section>
 
