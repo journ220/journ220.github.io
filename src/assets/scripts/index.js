@@ -11,10 +11,16 @@ const docReady = function(func) {
 
 docReady(() => {
 
+  // // dropdown
+  // const dropdown = document.getElementById('toc-dropdown');
+  // dropdown.addEventListener('change', e => {
+  //   window.location.href = e.target.value;
+  // });
+
+
+  // shade lecture background
   const lectures = document.querySelectorAll('.lecture'),
     now = new Date();
-  
-  console.log(now);
 
   lectures.forEach(element => {
     const lectureDate = element.getAttribute('data-date'),

@@ -9,17 +9,17 @@ bodyClass: main
 
 # Intro to Coding
 
-**Term:** Spring 2023
+**Term:** Spring 2024
 **Instructors:** Yoli Martinez ([email](mailto:yolanda_martinez@berkeley.edu)) and Soo Oh ([email](mailto:soo@berkeley.edu))
-**Announcements:**  [Berkeley Slack](https://berkeleyjschool.slack.com)
+**Announcements:**  [Berkeley Slack #j220](https://app.slack.com/client/T834PFE48/C02TY3N6K9U)
 **Lecture:** Mondays, 6-9pm in 108 North Gate (Lower Newsroom)
 **Class website:** This is it (you're here!) https://journ220.github.io
-**Turn in assignments:** Use the class link for [bCourses](https://bcourses.berkeley.edu/courses/1520541)
+**Turn in assignments:** Use the class link for [bCourses](https://bcourses.berkeley.edu/courses/1531097)
 
 ## Office hours
 
 **Yoli**
-- Monday/Tuesday/Friday, various times on [Zoom via Calendly](https://calendly.com/yolimartinez/)
+- Various times on [Zoom via Calendly](https://calendly.com/yolimartinez/)
 
 **Soo**
 - Various times on [Zoom via Calendly](https://calendly.com/soooh/j220)
@@ -30,51 +30,100 @@ bodyClass: main
 
 ## Lectures and assignments
 
-<section class="lecture" data-date="2023-01-23">
+{# Note: haven't made this work yet
+<div class="toc">
+Jump to
+<select id="toc-dropdown">
+  <option value="#2024-01-22">Jan. 22</option>
+  <option value="#2024-01-29">Jan. 29</option>
+  <option value="#2024-02-05">Feb. 5</option>
+  <option value="#2024-02-12">Feb. 12</option>
+  <option value="#2024-02-19">Feb. 19</option>
+  <option value="#2024-02-26">Feb. 26</option>
+  <option value="#2024-03-04">Mar. 4</option>
+  <option value="#2024-03-11">Mar. 11</option>
+  <option value="#2024-03-18">Mar. 18</option>
+  <option value="#2024-03-25">Mar. 25</option>
+  <option value="#2024-04-01">Apr. 1</option>
+  <option value="#2024-04-08">Apr. 8</option>
+  <option value="#2024-04-15">Apr. 15</option>
+  <option value="#2024-04-22">Apr. 22</option>
+  <option value="#2024-04-29">Apr. 29</option>
+  <option value="#2024-05-06">May 6 </option>
+</select>
+</div> 
+#}
 
-### Jan. 23: About the class; Intro to HTML
 
-- [Lecture slides](./assets/static/lecture01-23.pdf)
-- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-23`
+<section class="lecture" id="2024-01-22" data-date="2024-01-22">
 
+### Jan. 22: About the class; Intro to HTML
+
+- [Preliminary lecture slides](./assets/static/lecture01-22_prelim.pdf)
+
+{# - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-22` #}
+ 
 #### Homework
 - Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](./assets/static/feedback_hbr.pdf) if you're paywalled)
-- Submit [Assignment 01-23 in bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419447) by Jan. 28 at 11:59 p.m.
-- Sign up for [office hours](#office-hours) between tomorrow and Feb. 17 with Yoli or Soo (just one of us). This is a 5-point assignment. Schedule before the next lecture for full credit; you will get partial credit if you do not book before Jan. 30.
+- Submit [Assignment #1: Syllabus and Feedback](https://bcourses.berkeley.edu/courses/1531097/quizzes/2457411) in bCourses by Jan. 27 at 11:59 p.m.
 
 </section>
 
-<section class="lecture" data-date="2023-01-30">
 
 
-### Jan. 30: The HTML document and semantic HTML; Getting started with accessibility
 
-- [Lecture slides](./assets/static/lecture01-30.pdf)
-- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-30`
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-01-29" data-date="2024-01-29">
+
+### Jan. 29: The HTML document and semantic HTML; Getting started with accessibility
+
+- Preliminary lecture slides TBU
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture01-29_prelim.pdf)
+- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-29` 
+#}
 
 #### Homework
-- Submit [Assignment 01-30: Semantic HTML](https://bcourses.berkeley.edu/courses/1520541/quizzes/2420377) in bCourses by Feb. 4 at 11:59 p.m.
-
+- Submit [Assignment #2: Semantic HTML](https://bcourses.berkeley.edu/courses/1531097/assignments/8704566) in bCourses by Feb. 3 at 11:59 p.m.
+{# 
 #### Recommended
 - [Semantic Elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_elements), Mozilla
 - [What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML), Mozilla
-- [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/), CSS-Tricks
+- [The Essential Meta Tags for Social Media](https://css-tricks.com/essential-meta-tags-social-media/), CSS-Tricks #}
 
 </section>
 
-<section class="lecture" data-date="2023-02-06">
 
-### Feb. 6: More HTML elements
 
-- [Lecture slides](./assets/static/lecture02-06.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-06`
-- [Lesson materials](./assets/static/lecture02-06.zip)
-- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985)
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-02-05" data-date="2024-02-05">
+
+### Feb. 5: More HTML elements
+
+- Preliminary lecture slides TBU
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture02-05_prelim.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-05`
+- [Lesson materials](./assets/static/lecture02-05.zip)
+- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) #}
 
 #### Homework
-- Submit [Assignment 02-06: More HTML elements](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422627) in bCourses by Feb. 11 at 11:59 p.m.
-- Read [Meet the first-ever accessibility engineer at The Washington Post](https://www.niemanlab.org/2023/02/meet-the-first-ever-accessibility-engineer-at-the-washington-post/), Nieman Lab
-
+- Submit [Assignment #3: More HTML elements](https://bcourses.berkeley.edu/courses/1531097/assignments/8712095) in bCourses by Feb. 10 at 11:59 p.m.
+{# 
 #### Recommended
 
 The following links have different sections; you are free to read whatever interests you.
@@ -85,217 +134,365 @@ The following links have different sections; you are free to read whatever inter
 **Helpful Codecademy tutorials**
 - [HTML Document Standards](https://www.codecademy.com/courses/learn-html/lessons/html-document-standards/)
 - [Introduction to Semantic HTML](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/)
-- [Tables](https://www.codecademy.com/courses/learn-html/lessons/html-tables)
+- [Tables](https://www.codecademy.com/courses/learn-html/lessons/html-tables) #}
 
 </section>
 
-<section class="lecture" data-date="2023-02-13">
 
-### Feb. 13: Accessibility and design
 
-**Guest lecture:** [Holden Foreman](https://twitter.com/hsforeman), the Washington Post's first accessibility engineer
 
-- [Lecture slides](./assets/static/lecture02-13.pdf)
-- [Guest lecture slides: Holden Foreman on accessibility](./assets/static/holden_foreman_accessibility.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) in 2 parts, starting with `Lecture 02-13`
-- [HTML answers for Assignment 02-06](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
-- Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-02-12" data-date="2024-02-12">
+
+### Feb. 12: Accessibility and design; Intro to CSS
+
+- Preliminary lecture slides TBU
+
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture02-12_prelim.pdf)
+- [Guest Preliminary lecture slides: Holden Foreman on accessibility_prelim](./assets/static/holden_foreman_accessibility.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) in 2 parts, starting with `Lecture 02-12`
+- [HTML answers for Assignment 02-05](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
+- Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen #}
 
 #### Homework
-- Submit [Assignment 02-13: Accessibility](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422681) in bCourses by Feb. 18 at 11:59 p.m.
-
+- Submit [Assignment #4: Accessibility](https://bcourses.berkeley.edu/courses/1531097/assignments/8704672) in bCourses by Feb. 17 at 11:59 p.m.
+{# 
 #### Recommended
 
 We don't have lecture next week! You can catch up with HTML or get ahead on CSS with the following Codecademy tutorials:
 - [Learn HTML](https://www.codecademy.com/learn/learn-html), everything in the Syllabus except the "Forms" section
-- [Learn CSS](https://www.codecademy.com/learn/learn-css), specifically the first set of lessons called "Syntax and Selectors"
+- [Learn CSS](https://www.codecademy.com/learn/learn-css), specifically the first set of lessons called "Syntax and Selectors" #}
 
 </section>
 
-<section class="lecture" data-date="2023-02-20">
 
-### Feb. 20: President’s Day
+
+
+
+{# ======== #}
+
+
+
+
+<section class="lecture" id="2024-02-19" data-date="2024-02-19">
+
+### Feb. 19: Presidents Day
 **No lecture**
 
 </section>
 
-<section class="lecture" data-date="2023-02-27">
 
-### Feb. 27: Intro to CSS
 
-- [Lecture slides](./assets/static/lecture02-27.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-27`
-- [Lesson materials](./assets/static/importingCSS.zip)
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-02-26" data-date="2024-02-26">
+
+### Feb. 26: More CSS
+
+- Preliminary lecture slides TBU
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture02-26_prelim.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-26`
+- [Lesson materials](./assets/static/importingCSS.zip) #}
 
 #### Homework
-- <ins>EXTENDED:</ins> Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March <del>4</del> <ins>11</ins> at 11:59 p.m.</del>
-
+- Submit [Assignment #5: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by March 2 at 11:59 p.m.
+{# 
 #### Recommended
 - All [named color values](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color) available, via Mozilla
 - List of all [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), with explanations on how to use. We're covering the most common in class.
 
 **Helpful Codecademy tutorials**
-- Codecademy: [CSS box model and layout](https://www.codecademy.com/learn/learn-css-box-model-and-layout)
+- Codecademy: [CSS box model and layout](https://www.codecademy.com/learn/learn-css-box-model-and-layout) #}
 
 </section>
 
-<section class="lecture" data-date="2023-03-06">
 
-### Mar. 6: More CSS
 
-- [Lecture slides](./assets/static/lecture03-06.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-06`
-- [Lesson materials](./assets/static/lecture_0306.zip)
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-03-04" data-date="2024-03-04">
+
+### Mar. 4: Even more CSS + Review
+ 
+- Preliminary lecture slides TBU
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture03-04_prelim.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-04`
+- [Lesson materials](./assets/static/lecture_0306.zip) #}
 
 #### Homework
-- Submit [Assignment 02-27: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422680) in bCourses by March 11 at 11:59 p.m.
-- Submit [Assignment 03-06: CSS](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422631) in bCourses by March 11 at 11:59 p.m.
+- Submit [Assignment #6: CSS](https://bcourses.berkeley.edu/courses/1531097/assignments/8712094) in bCourses by March 9 at 11:59 p.m.
 
 </section>
 
-<section class="lecture" data-date="2023-03-13">
 
-### Mar. 13: More CSS
 
-- [Lecture slides](./assets/static/lecture03-13.pdf)  {# - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-13` #}
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-03-11" data-date="2024-03-11">
+
+### Mar. 11: More CSS / Wireframing
+
+- Preliminary lecture slides TBU
+
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture03-11_prelim.pdf)  
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-11` 
+
 - Homework review
-  - [Assignment 02-27: example website](./assets/static/assignment02-27.zip)
-  - [Assignment 03-06: CSS and grading criteria](https://docs.google.com/document/d/1XTdhlvu4-uFny8l8BwPO0TFdke_1FrJyzR9OT-q6DsQ/edit)
+  - [Assignment 02-26: example website](./assets/static/assignment02-26.zip)
+  - [Assignment 03-04: CSS and grading criteria](https://docs.google.com/document/d/1XTdhlvu4-uFny8l8BwPO0TFdke_1FrJyzR9OT-q6DsQ/edit)
 - In-class exercise: [Make a simple portfolio](https://docs.google.com/document/d/1qG-Qx8P6aeD8kGvofbfF5Hs45EU9aVO8W-zvbf1TxEw/edit)
+#}
 
 #### Homework
-- Submit [Mid-semester feedback survey (extra credit)](https://bcourses.berkeley.edu/courses/1520541/quizzes/2425190) in bCourses by March 18 at 11:59 pm.
-
+- Submit [Assignment #7: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1531097/assignments/) (not yet available) in bCourses by March 9 at 11:59 p.m.
+- Submit [Mid-semester feedback survey (extra credit)](https://bcourses.berkeley.edu/courses/1531097/assignments/8712100) in bCourses by March 16 at 11:59 pm.
+{# 
 #### Recommended for next week
 
 **Helpful Codecademy tutorials**
 - [CSS: display, position](https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning/)
 - [CSS: color](https://www.codecademy.com/courses/learn-css/lessons/color/)
 - [CSS: typography](https://www.codecademy.com/courses/learn-css/lessons/css-typography/)
-- [CSS: transitions, animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations)
+- [CSS: transitions, animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations) #}
 
 </section>
 
-<section class="lecture" data-date="2023-03-20">
 
-### Mar. 20: More CSS, Design and Wireframing
 
-- [Lecture slides](./assets/static/lecture03-20.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-20`
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-03-18" data-date="2024-03-18">
+
+### Mar. 18: Layout and HTML frameworks
+
+- Preliminary lecture slides TBU
+
+
+{# - [Preliminary lecture slides](./assets/static/lecture03-18_prelim.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-18`
 - [Lesson materials](./assets/static/lecture_0320.zip)
-- For wireframes, you can use [wireframe.cc](https://wireframe.cc), Figma, Adobe Illustrator, Google Slides
+- For wireframes, you can use [wireframe.cc](https://wireframe.cc), Figma, Adobe Illustrator, Google Slides #}
 
 #### Homework
-- Submit [Assignment 03-20: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422682) in bCourses by April 1 at 11:59 pm.
-- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) <ins>(link will be fixed on April 11)</ins> in bCourses by April 15 at 11:59pm. Available early so you can review the grading rubric as you think about the final project options.
+- Submit [Assignment #8: Hand-code HTML #3](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by March 30 at 11:59 pm.
 
 </section>
 
-<section class="lecture" data-date="2023-03-27">
 
-### Mar. 27: Spring break
+
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-03-25" data-date="2024-03-25">
+
+### Mar. 25: Spring break
 **No lecture**
 
 </section>
 
-<section class="lecture" data-date="2023-04-03">
 
-### Apr. 3: Layout and HTML frameworks
 
-- [Lecture materials](./assets/static/lecture04-03.zip)
-- [Lecture slides](./assets/static/lecture04-03.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-03`
 
-**Helpful links**
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-04-01" data-date="2024-04-01">
+
+### Apr. 1: Advanced CSS; Basic JavaScript
+
+- Preliminary lecture slides TBU
+
+{# 
+- [Lecture materials](./assets/static/lecture04-01.zip)
+- [Preliminary lecture slides](./assets/static/lecture04-01_prelim.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-01` #}
+
+{# 
+#### Helpful links
 
 - [Mozilla: CSS grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [Mozilla: CSS flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-- [Codecademy: CSS flexbox and grid](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
+- [Codecademy: CSS flexbox and grid](https://www.codecademy.com/learn/learn-css-flexbox-and-grid) #}
 
 
 #### Homework
-- Submit [Assignment 04-03](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426317) in bCourses by April 8 at 11:59 pm.
-- Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/assignments/8543629) <ins>(link will be fixed on April 11)</ins> in bCourses by April 15 at 11:59pm.
+- Submit [Assignment #9: CSS / JavaScript](https://bcourses.berkeley.edu/courses/1531097/assignments/8712097) in bCourses by April 6 at 11:59 pm.
+- Submit final project [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by April 13 at 11:59pm. Available early so you can review the grading rubric as you think about the final project options.
 
 </section>
 
-<section class="lecture" data-date="2023-04-10">
 
-### Apr. 10: Basic JavaScript
-- [Lecture slides](./assets/static/lecture04-10.pdf)
-- [Lecture materials](./assets/static/lecture04-10.zip)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-10`
 
-**Homework (all due April 16 at 11:59 pm)**
 
-You have an extra day for homework (due on Sunday night instead of Saturday night).
 
-- Submit [April 17 food survey](https://docs.google.com/forms/d/e/1FAIpQLScA54mOX60NagYQVzClnXxn9UEQiX6XY_noHbNTXqdT5Haz_Q/viewform)
-- Submit [Assignment 04-10: CSS/JavaScript](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422688) in bCourses. You'll get one extra credit point if you submit this assignment by April 15 at 11:59 pm.
-- Submit [Final Project Wireframe](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426689) in bCourses.
+{# ======== #}
 
+
+
+
+
+<section class="lecture" id="2024-04-08" data-date="2024-04-08">
+
+### Apr. 8: More JavaScript
+
+- Preliminary lecture slides TBU
+
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture04-08_prelim.pdf)
+- [Lecture materials](./assets/static/lecture04-08.zip)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-08` #}
+
+#### Homework
+- Submit [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by April 13 at 11:59pm. 
+{# 
 **Optional**
 - [Codecademy: Build interactive websites](https://www.codecademy.com/learn/build-interactive-websites)
-- Reading: If you'd like some background on cultural differences in web development between CSS and JavaScript, check out [The Great Divide](https://css-tricks.com/the-great-divide/) (about 3,000 words).
+- Reading: If you'd like some background on cultural differences in web development between CSS and JavaScript, check out [The Great Divide](https://css-tricks.com/the-great-divide/) (about 3,000 words). #}
 
 </section>
 
-<section class="lecture" data-date="2023-04-17">
 
-### Apr. 17: GitHub + Study Hall
-- [Lecture slides](./assets/static/lecture04-17.pdf)
+
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-04-15" data-date="2024-04-15">
+
+### Apr. 15: GitHub (and maybe Terminal) + Study Hall
+
+- Preliminary lecture slides TBU
+
+{# 
+- [Preliminary lecture slides](./assets/static/lecture04-15_prelim.pdf)
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-10: Part I`, `Lecture 04-10: Part II` and `Lecture 04-10: Part III`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-08: Part I`, `Lecture 04-08: Part II` and `Lecture 04-08: Part III` #}
 
 #### Homework
-- Submit [Assignment 04-17](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422684) in bCourses by April 22 at 11:59 pm.
-- Do you have any questions you'd like to ask our April 24 guest panel? Add questions to the [bottom of this Google Doc](https://docs.google.com/document/d/1Qi3Yvu77hzQ4FWqKHeUJ-12rkQXWKB4DqmACEqodwfU/edit#heading=h.pmxy10z9sjf3) (you need to be logged into your Berkeley account to suggest questions).
-- <ins>**Wireframe extension**:</ins> Submit final project [Wireframe](https://bcourses.berkeley.edu/courses/1520541/quizzes/2426689) in bCourses by April 20 at 11:59pm. Refer to the rubric, which was also shared in the [class slack](https://berkeleyjschool.slack.com/archives/C02TY3N6K9U/p1681331308990149).
-
+- Submit [Assignment #10: Progress](https://bcourses.berkeley.edu/courses/1531097/assignments/8712117) in bCourses by April 20 at 11:59 pm.
+{#- Do you have any questions you'd like to ask our April 24 guest panel? Add questions to the [bottom of this Google Doc](https://docs.google.com/document/d/1Qi3Yvu77hzQ4FWqKHeUJ-12rkQXWKB4DqmACEqodwfU/edit#heading=h.pmxy10z9sjf3) (you need to be logged into your Berkeley account to suggest questions).#}
 
 </section>
 
-<section class="lecture" data-date="2023-04-24">
 
-### Apr. 24: Career panel
-- [Lecture slides](./assets/static/lecture04-24.pdf) (mostly just announcements)
 
-Our guests:
-- [Nancy DeVille](https://twitter.com/devillenews), Editorial Project Manager at The Atlantic
-- [Gabe Hongsdusit](https://twitter.com/ghongsdusit), Visual Designer at The Markup
-- [Evan Wagstaff](https://twitter.com/EvanWagstaff), Director of Newsroom Engineering at Hearst Newspapers
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-04-22" data-date="2024-04-22">
+
+### Apr. 22: Guest lecture TBD
+
+- Preliminary lecture slides TBU
 
 
 #### Homework
-- Submit [Assignment 04-24](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422634) in bCourses by April 29 at 11:59 pm.
-- Get ready for class presentations by reviewing the [rubric on bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449).
-- Review [Final Project rubric](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422630).
+- Submit [Assignment #11: Progress](https://bcourses.berkeley.edu/courses/1531097/assignments/8712099) in bCourses by April 20 at 11:59 pm.
 
 </section>
 
-<section class="lecture" data-date="2023-05-01">
 
-### May 1: Presentations
+
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-04-29" data-date="2024-04-29">
+
+### Apr. 29: Presentations
 **Final class**
 
-You'll be presenting your work in progress to the class for feedback. Review the [rubric on bCourses](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449).
-
-- [Peer Feedback](https://bcourses.berkeley.edu/courses/1520541/quizzes/2419449) is due May 2 (day after lecture) at 11:59 pm.
-- [Lecture slides](./assets/static/lecture05-01.pdf) (with important dates)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 05-01`
+You'll be presenting your work in progress to the class for feedback. 
+- **Peer Feedback** is due April 30 (day after lecture) at 11:59 pm. 
 
 </section>
 
-<section class="lecture" data-date="2023-05-08">
 
-### May 12: Final Projects due
+
+
+
+{# ======== #}
+
+
+
+
+
+<section class="lecture" id="2024-05-06" data-date="2024-05-06">
+
+### May 6: Final Projects due
 **No lecture**
 
-Submit [Final Project](https://bcourses.berkeley.edu/courses/1520541/quizzes/2422630) by 11:59 pm.
+Submit **Final Project** by 11:59 pm.
 
 </section>
+</section>
 
-## About the class
+
+
+{# ======== #}
+
+
+## About the Class
 
 ### Course description
 
@@ -313,18 +510,85 @@ By the end of the semester, you will have the tools and knowhow to efficiently c
 How you present the work, the layout, page hierarchy and interactive elements are at their core critical editorial conversations that require the same thoughtfulness and discussion as any other journalism endeavor. Expect to have those critical conversations in this class, too.
 
 ### Prerequisites
-- None
+- None :)
 
 ### Required tools
 - Laptop with a Unix or Unix-like operating system (e.g. all Macbooks; a Dell, Lenovo, or ThinkPad with Ubuntu; tell us at class if you have something else)
 - [GitHub.com](https://github.com) account (it's free)
-- Text editor: We highly recommend [Sublime Text](https://www.sublimetext.com/), which is more user-friendly for new coders
+- Text editor: We recommend [VS Code](https://code.visualstudio.com/) (free) and [Sublime Text](https://www.sublimetext.com/) ($99), which is more user-friendly for new coders
 - [Color Oracle](https://colororacle.org/) (accessibility tool for Mac)
 - [Poll Everywhere](https://www.polleverywhere.com/) account
 - Proactive inclusivity of and respectful communication with fellow students and instructors
 
+### Announcements
+
+- We’ll make announcements by [Slack at #j220](https://app.slack.com/client/T834PFE48/C02TY3N6K9U). Please make a habit of checking your Slack once a day.
+- If a class needs to be shifted to Zoom, we will send an announcement by Slack. We will also send a Google Calendar invite with Zoom link to your Berkeley email address.
+
+
+### Office hours
+We’ll wait up to 10 minutes for your arrival, and then sign off.
+
+You will lose 1 point if you:
+- do not show up within 10 minutes
+- cancel after 9 am on the day of your booked office hours
+
+Otherwise, you'll get up to 1 extra credit point a week for every office hour you book and attend.
+
+
+### Class expectations
+
+The success of this course depends on the level of commitment of each student. It’s up to you to carry out your class work and speak up about any concerns or difficulties you have. In return, we will do our best to provide a clear lesson plan, give you timely feedback, and advise you so you can achieve the course’s objectives.
+
+The [Student Code of Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf) is in effect at all times. Additionally, all students must follow the [COVID-19 Health & Safety Response](https://conduct.berkeley.edu/wp-content/uploads/2021/08/Fall-2021-COVID-19-CSC-Reporting-Expectations.pdf).
+
+### Attendance and punctuality
+
+Classes will be held in person.
+
+We meet 13 times for lecture during the spring semester. There will be no lectures on President’s Day and Spring break.
+
+Two unexcused absences will result in dropping a full letter grade; three unexcused absences will result in an F.
+
+We'll adhere to Berkeley time and start lecture promptly at 6:10 pm. If you're going to be late, message both Yoli and Soo in the J-school Slack. One of us will try to monitor the Slack near the beginning of class. Be the least disruptive as you can when you arrive to not disturb the lecture and other students. 
+
+We’ll have one ~15-minute break in the middle of class. Occasionally, we will end the class early.
+
+A lecture may be remote for COVID-19 related quarantines, poor air quality due to fires, power outages, instructor illness or exposure, changing public health guidance, etc.
+
+If you're sick or have a family emergency, email us anytime before lecture to let us know. (If it's really an emergency, email when you get the chance — you don't have to get in touch from the back of an ambulance!)
+
+We will make course materials available on this website and can help you to a reasonable extent. However, it is ultimately your responsibility to catch up with the class.
+
+### Participation in class
+
+Participation is worth 5 points per lecture for ~12 lectures. 
+
+You’re expected to adhere to the [Guidelines for Dialogue & Community Expectations](https://drive.google.com/file/d/1ZsFEfFYUUi_3dBivFXGO9aKlc-4iiklv/view).
+
+Set your phone to silent or Do Not Disturb mode before class begins. Do not answer calls or text during class. If it’s an emergency, quietly step outside to take the call. If you need to use the restroom, you can go without asking for permission, but do your best to not disturb the lecture or other students. 
+
+Students should not check email, social media, notifications, or the news during the lecture portions of the class. Participation points will be docked if you get caught texting or browsing while in class.
+
+Try your hardest to receive feedback constructively. Your work will be subject to intensive and substantial editing in the future. Learning how to give and take feedback is a tremendous part of learning how to grow as a human and as a journalist.
+
+**What should you do if you’re feeling sick?**
+
+No matter how OK you feel, don’t come to class if you think you’re contagious (with a cold, flu, strep, coronavirus, etc). Lectures are recorded; however, there is a risk that the wifi is choppy, the recording messes up, or some other problem. Again, it's ultimately your responsibility to catch up with the class. Talk to us about how.
+
+### Assignments
+
+All assignments must be submitted on time in bCourses. There will be no exceptions made for late assignments except for DSP, medical reasons, and family emergencies. 
+
+An assignment will be dropped a full letter grade for every 24 hours that pass after the deadline, starting the minute after the deadline (e.g. an assignment with no mistakes will be graded as 90% one minute after deadline, 80% one minute and 24 hours after deadline, and so on).
+
+Homework is typically assigned at Monday lecture, then due the coming Saturday at 11:59 pm. We’ll do grades on Sunday. We’ll review homework at the beginning of the following Monday lecture. We’ve made changes to this policy before, with feedback and participation of the class. We’ll see how things go!
+
+Just FYI, lecturers are often out of the loop when it comes to what’s going on at the School of Journalism. If something is impacting your work, please come to us and let us know.
+
 ### Grading rubric
-- [Tentative list of assignments and extra credit](https://docs.google.com/spreadsheets/d/1CGBAhbiO929sFa1_MhNxcQP6goJQoW6ZdhJFebTiqDQ/edit#gid=0) with all potential assignments. Note that we have previously adjusted a course throughout the semester to accommodate students.
+
+Assignments and participation is estimated to be at 400 points total.
 
 | Grade | Percent                      |
 |-------|------------------------------|
@@ -335,47 +599,7 @@ How you present the work, the layout, page hierarchy and interactive elements ar
 | F     | Below 60%                    |
 
 
-
-## Class expectations
-
-The success of this course depends on the level of commitment of each student. It’s up to you to carry out your class work and speak up about any concerns or difficulties you have. In return, we will do our best to provide a clear lesson plan, give you timely feedback, and advise you so you can achieve the course’s objectives.
-
-The [Student Code of Conduct](https://sa.berkeley.edu/sites/default/files/Code%20of%20Conduct_January%202016.pdf) is in effect at all times. Additionally, all students must follow the [COVID-19 Health & Safety Response](https://conduct.berkeley.edu/wp-content/uploads/2021/08/Fall-2021-COVID-19-CSC-Reporting-Expectations.pdf).
-
-### Attendance and punctuality
-
-We meet 13 times for lecture during the spring semester.
-
-Two unexcused absences will result in dropping a full letter grade; three unexcused absences will result in an F.
-
-We'll adhere to Berkeley time and start lecture promptly at 6:10 pm. Let us know if you're rushing from a faraway class and will regularly need a few extra minutes. If you're going to be late, message both Yoli and Soo in the J-school Slack. One of us will try to monitor the Slack near the beginning of class. Be the least disruptive as you can when you arrive to not disturb the lecture and other students.
-
-If you're sick or have a family emergency, email us anytime before lecture to let us know. (If it's really an emergency, email when you get the chance — you don't have to get in touch from the back of an ambulance!)
-
-We will make course materials available on this website and can help you to a reasonable extent. However, it is ultimately your responsibility to catch up with the class.
-
-**What should you do if you’re feeling sick?**
-
-No matter how OK you feel, don’t come to class if you think you’re contagious (with a cold, flu, strep, coronavirus, etc). Lectures are recorded; however, there is a risk that the wifi is choppy, the recording messes up, or some other problem. Again, it's ultimately your responsibility to catch up with the class. Talk to us about how.
-
-### Assignment deadlines
-
-All assignments must be submitted on time in bCourses. There will be no exceptions made for late assignments except for medical reasons and family emergencies. An assignment will be dropped a full letter grade for every 24 hours that pass after the deadline, starting the minute after the deadline (e.g. an assignment with no mistakes will be graded as 90% one minute after deadline, 80% one minute and 24 hours after deadline, and so on).
-
-
-### Participation in class
-
-- You’re expected to adhere to the [Guidelines for Dialogue & Community Expectations](https://drive.google.com/file/d/1ZsFEfFYUUi_3dBivFXGO9aKlc-4iiklv/view).
-
-- Set your phone to silent or Do Not Disturb mode before class begins. Do not answer calls or text during class. If it’s an emergency, quietly step outside to take the call.
-
-- Students should not check email, social media, notifications, or the news during the lecture portions of the class.
-
-- Students should learn how to receive both positive and critical feedback. Your work will be subject to intensive and substantial editing. It’s not personal, and learning how to take it is a tremendous part of learning how to grow and as a human, as a journalist.
-
-- Required readings will be discussed in class.
-
-## Academic dishonesty and plagiarism
+### Academic dishonesty and plagiarism
 
 The high academic standard at the University of California, Berkeley, is reflected in each degree that is awarded. As a result, it is up to every student to maintain this high standard by ensuring that all academic work reflects their own ideas or properly attributes the ideas to the original sources. These are some basic expectations of students with regards to academic integrity:
 
@@ -385,9 +609,19 @@ The high academic standard at the University of California, Berkeley, is reflect
 
 **What does proper attribution mean for code when Googling and using [stackoverflow.com](stackoverflow.com) are the norm?**
 
-I’m so glad you asked. If you were stuck and found code online to help you, link to the resource in your documentation, either in the code comments or in a markdown block for a notebook. Make sure you format or rewrite the code in the preferred style of your programming language (single or double quotes, snake_case or camelCase, and so on).
+So glad you asked! If you were stuck and found code online to help you, link to the resource in your documentation, either in the code comments or in a markdown block for a notebook. Make sure you format or rewrite the code in the preferred style of your programming language (single or double quotes, snake_case or camelCase, and so on).
 
-## Disabled Students’ Program
+**AI tools and ChatGPT**
+
+ChatGPT and other similar tools can be pretty good at answering basic coding questions. But sometimes they’re not. And it can be hard to tell if the code is good or not unless you know how to code. We'll likely be able to tell whether you wrote your code yourself based on what we learn about you and the kind of code we've seen ChatGPT produce.
+
+Try to complete the work on your own before turning to ChatGPT. You’ll be expected to understand the code you’re turning in. 
+
+If you use ChatGPT, make sure you tell us the exact prompt you used. Also, write a sentence about what you learned from ChatGPT’s response.
+
+**Failure to cite AI tools or properly attribute code you found on the internet will result in warnings, docked points, and a possible F in the class.**
+
+### Disabled Students’ Program
 
 UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with us.
 
@@ -396,7 +630,7 @@ If you have a disability, or think you may have a disability, you can work with 
 Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkelely.edu.
 
 
-## Additional student services
+### Additional student services
 
 - [Berkeley Journalism Student Services](http://myjschool.com) will help with questions and services related to advising and course registration, career development, funding and financial aid, and more.
 - [Basic Needs Center](https://basicneeds.berkeley.edu/) provides support with all the essential resources (food, housing, etc.) needed to not only survive, but thrive here at UC Berkeley.
