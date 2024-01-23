@@ -59,9 +59,8 @@ Jump to
 
 ### Jan. 22: About the class; Intro to HTML
 
-- [Preliminary lecture slides](./assets/static/lecture01-22_prelim.pdf)
-
-{# - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-22` #}
+- [Lecture slides](./assets/static/lecture01-22.pdf)
+- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 01-22`
  
 #### Homework
 - Read [Find the Coaching in Criticism from HBR](https://hbr.org/2014/01/find-the-coaching-in-criticism) ([here's a PDF](./assets/static/feedback_hbr.pdf) if you're paywalled)
@@ -86,7 +85,7 @@ Jump to
 
 {# 
 - [Preliminary lecture slides](./assets/static/lecture01-29_prelim.pdf)
-- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 01-29` 
+- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 01-29` 
 #}
 
 #### Homework
@@ -117,9 +116,9 @@ Jump to
 
 {# 
 - [Preliminary lecture slides](./assets/static/lecture02-05_prelim.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-05`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 02-05`
 - [Lesson materials](./assets/static/lecture02-05.zip)
-- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) #}
+- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) #}
 
 #### Homework
 - Submit [Assignment #3: More HTML elements](https://bcourses.berkeley.edu/courses/1531097/assignments/8712095) in bCourses by Feb. 10 at 11:59 p.m.
@@ -158,7 +157,7 @@ The following links have different sections; you are free to read whatever inter
 {# 
 - [Preliminary lecture slides](./assets/static/lecture02-12_prelim.pdf)
 - [Guest Preliminary lecture slides: Holden Foreman on accessibility_prelim](./assets/static/holden_foreman_accessibility.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) in 2 parts, starting with `Lecture 02-12`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) in 2 parts, starting with `Lecture 02-12`
 - [HTML answers for Assignment 02-05](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
 - Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen #}
 
@@ -206,7 +205,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 {# 
 - [Preliminary lecture slides](./assets/static/lecture02-26_prelim.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 02-26`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 02-26`
 - [Lesson materials](./assets/static/importingCSS.zip) #}
 
 #### Homework
@@ -239,7 +238,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 {# 
 - [Preliminary lecture slides](./assets/static/lecture03-04_prelim.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-04`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 03-04`
 - [Lesson materials](./assets/static/lecture_0306.zip) #}
 
 #### Homework
@@ -266,7 +265,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 {# 
 - [Preliminary lecture slides](./assets/static/lecture03-11_prelim.pdf)  
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-11` 
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 03-11` 
 
 - Homework review
   - [Assignment 02-26: example website](./assets/static/assignment02-26.zip)
@@ -306,7 +305,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 
 {# - [Preliminary lecture slides](./assets/static/lecture03-18_prelim.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 03-18`
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 03-18`
 - [Lesson materials](./assets/static/lecture_0320.zip)
 - For wireframes, you can use [wireframe.cc](https://wireframe.cc), Figma, Adobe Illustrator, Google Slides #}
 
@@ -351,7 +350,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 {# 
 - [Lecture materials](./assets/static/lecture04-01.zip)
 - [Preliminary lecture slides](./assets/static/lecture04-01_prelim.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-01` #}
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-01` #}
 
 {# 
 #### Helpful links
@@ -387,7 +386,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 {# 
 - [Preliminary lecture slides](./assets/static/lecture04-08_prelim.pdf)
 - [Lecture materials](./assets/static/lecture04-08.zip)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-08` #}
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-08` #}
 
 #### Homework
 - Submit [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by April 13 at 11:59pm. 
@@ -417,7 +416,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 {# 
 - [Preliminary lecture slides](./assets/static/lecture04-15_prelim.pdf)
 - Work on Final Project in class. Ask about JavaScript if you like. etc.
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1520541/external_tools/78985) as `Lecture 04-08: Part I`, `Lecture 04-08: Part II` and `Lecture 04-08: Part III` #}
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-08: Part I`, `Lecture 04-08: Part II` and `Lecture 04-08: Part III` #}
 
 #### Homework
 - Submit [Assignment #10: Progress](https://bcourses.berkeley.edu/courses/1531097/assignments/8712117) in bCourses by April 20 at 11:59 pm.
