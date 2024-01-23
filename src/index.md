@@ -493,6 +493,8 @@ Submit **Final Project** by 11:59 pm.
 
 ## About the Class
 
+Last updated January 22, 2024.
+
 ### Course description
 
 It is increasingly hard to work in journalism without having a basic understanding of how your work will be presented online. In this course, you will be introduced to basic concepts, terms and approaches to web development, including:
