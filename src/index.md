@@ -81,8 +81,8 @@ Jump to
 
 ### Jan. 29: The HTML document and semantic HTML; Getting started with accessibility
  
-- [Preliminary lecture slides](./assets/static/lecture01-29_prelim.pdf)
-{# - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 01-29` #}
+- [Lecture slides](./assets/static/lecture01-29.pdf)
+- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 01-29`
 
 #### Homework
 - Submit [Assignment #2: Semantic HTML](https://bcourses.berkeley.edu/courses/1531097/assignments/8704566) in bCourses by Feb. 3 at 11:59 p.m.
