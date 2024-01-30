@@ -12,7 +12,7 @@ bodyClass: main
 **Term:** Spring 2024
 **Instructors:** Yoli Martinez ([email](mailto:yolanda_martinez@berkeley.edu)) and Soo Oh ([email](mailto:soo@berkeley.edu))
 **Announcements:**  [Berkeley Slack #j220](https://app.slack.com/client/T834PFE48/C02TY3N6K9U)
-**Lecture:** Mondays, 6-9pm in 108 North Gate (Lower Newsroom)
+**Lecture:** Mondays, 6-9pm in 106 North Gate (Upper Newsroom)
 **Class website:** This is it (you're here!) https://journ220.github.io
 **Turn in assignments:** Use the class link for [bCourses](https://bcourses.berkeley.edu/courses/1531097)
 
@@ -82,7 +82,7 @@ Jump to
 ### Jan. 29: The HTML document and semantic HTML; Getting started with accessibility
  
 - [Preliminary lecture slides](./assets/static/lecture01-29_prelim.pdf)
-- Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 01-29` 
+{# - Lecture recording in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 01-29` #}
 
 #### Homework
 - Submit [Assignment #2: Semantic HTML](https://bcourses.berkeley.edu/courses/1531097/assignments/8704566) in bCourses by Feb. 3 at 11:59 p.m.
@@ -489,7 +489,9 @@ Submit **Final Project** by 11:59 pm.
 
 ## About the Class
 
-Last updated January 22, 2024.
+
+### Changelog (for everything below)
+- Updated January 29, 2024 to indicate that any change refers to policies listed below.
 
 ### Course description
 
