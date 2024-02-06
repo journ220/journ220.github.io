@@ -73,7 +73,7 @@ module.exports = class {
     try {
       return await this.compile();
     } catch (err) {
-      throw new Error(err);
+      // throw new Error(err);
     }
   }
 };
