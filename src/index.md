@@ -108,16 +108,16 @@ Jump to
 
 ### Feb. 5: More HTML elements
 
-- Preliminary lecture slides TBU
+- [Preliminary lecture slides](./assets/static/lecture02-05_prelim.pdf)
+- [lecture0205examples.zip](./assets/static/lecture0205examples.zip)
 
 {# 
-- [Preliminary lecture slides](./assets/static/lecture02-05_prelim.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 02-05`
-- [Lesson materials](./assets/static/lecture02-05.zip)
-- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) #}
+- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) 
+- #}
 
 #### Homework
-- Submit [Assignment #3: More HTML elements](https://bcourses.berkeley.edu/courses/1531097/assignments/8712095) in bCourses by Feb. 10 at 11:59 p.m.
+- Submit [Assignment #3: More HTML elements](https://bcourses.berkeley.edu/courses/1531097/quizzes/2457416) in bCourses by Feb. 10 at 11:59 p.m.
 {# 
 #### Recommended
 
