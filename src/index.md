@@ -108,38 +108,20 @@ Jump to
 
 ### Feb. 5: More HTML elements
 
-- [Preliminary lecture slides](./assets/static/lecture02-05_prelim.pdf)
+- [Lecture slides](./assets/static/lecture02-05.pdf) | [In-class exercises (read-only)](https://docs.google.com/presentation/d/1ZiSDwHdSiJND3GDSC5mdWnpUCWjKJkFcBF8WPBE6K3Y/edit)
 - [lecture0205examples.zip](./assets/static/lecture0205examples.zip)
-
-{# 
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 02-05`
-- How to indent in bCourses: [slides](./assets/static/indenting.pdf) and [video](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) 
-- #}
+
 
 #### Homework
 - Submit [Assignment #3: More HTML elements](https://bcourses.berkeley.edu/courses/1531097/quizzes/2457416) in bCourses by Feb. 10 at 11:59 p.m.
-{# 
-#### Recommended
-
-The following links have different sections; you are free to read whatever interests you.
-
-- [Images tutorial](https://www.w3.org/WAI/tutorials/images/): dealing with decorative images, images of text, etc.
-- [Tables tutorial](https://www.w3.org/WAI/tutorials/tables/): different kinds of tables with different kinds of header rows and columns
-
-**Helpful Codecademy tutorials**
-- [HTML Document Standards](https://www.codecademy.com/courses/learn-html/lessons/html-document-standards/)
-- [Introduction to Semantic HTML](https://www.codecademy.com/courses/learn-html/lessons/semantic-html/)
-- [Tables](https://www.codecademy.com/courses/learn-html/lessons/html-tables) #}
 
 </section>
 
 
 
 
-
 {# ======== #}
-
-
 
 
 
@@ -159,12 +141,18 @@ The following links have different sections; you are free to read whatever inter
 
 #### Homework
 - Submit [Assignment #4: Accessibility](https://bcourses.berkeley.edu/courses/1531097/assignments/8704672) in bCourses by Feb. 17 at 11:59 p.m.
-{# 
-#### Recommended
 
+
+**Recommended reading for acccessibility**
+The following links have different sections; you are free to read whatever interests you.
+- [Images tutorial](https://www.w3.org/WAI/tutorials/images/): dealing with decorative images, images of text, etc.
+- [Tables tutorial](https://www.w3.org/WAI/tutorials/tables/): different kinds of tables with different kinds of header rows and columns
+
+**Helpful Codecademy tutorials**
 We don't have lecture next week! You can catch up with HTML or get ahead on CSS with the following Codecademy tutorials:
 - [Learn HTML](https://www.codecademy.com/learn/learn-html), everything in the Syllabus except the "Forms" section
-- [Learn CSS](https://www.codecademy.com/learn/learn-css), specifically the first set of lessons called "Syntax and Selectors" #}
+- [Learn CSS](https://www.codecademy.com/learn/learn-css), specifically the first set of lessons called "Syntax and Selectors" 
+
 
 </section>
 
