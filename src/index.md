@@ -129,15 +129,8 @@ Jump to
 
 ### Feb. 12: Accessibility and design; Intro to CSS
 
-- Preliminary lecture slides TBU
-
-
-{# 
-- [Preliminary lecture slides](./assets/static/lecture02-12_prelim.pdf)
-- [Guest Preliminary lecture slides: Holden Foreman on accessibility_prelim](./assets/static/holden_foreman_accessibility.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) in 2 parts, starting with `Lecture 02-12`
-- [HTML answers for Assignment 02-05](https://docs.google.com/document/d/1QkQP5lyCx9s36xIcBcyt-DRO4USHHrvEwD4EUs37yQk/edit)
-- Download [Color Oracle](https://colororacle.org/), a Mac plugin to simulate colorblindness on your screen #}
+- [Lecture slides](./assets/static/lecture02-12.pdf)
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 02-12`
 
 #### Homework
 - Submit [Assignment #4: Accessibility](https://bcourses.berkeley.edu/courses/1531097/assignments/8704672) in bCourses by Feb. 17 at 11:59 p.m.
