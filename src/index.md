@@ -186,7 +186,8 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - [Lesson materials](./assets/static/importingCSS.zip) #}
 
 #### Homework
-- Submit [Assignment #5: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by March 2 at 11:59 p.m.
+- Submit [Assignment #5: CSS](https://bcourses.berkeley.edu/courses/1531097/assignments/8712094) in bCourses by March 9 at 11:59 p.m.
+
 {# 
 #### Recommended
 - All [named color values](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color) available, via Mozilla
@@ -219,7 +220,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - [Lesson materials](./assets/static/lecture_0306.zip) #}
 
 #### Homework
-- Submit [Assignment #6: CSS](https://bcourses.berkeley.edu/courses/1531097/assignments/8712094) in bCourses by March 9 at 11:59 p.m.
+- Submit [Assignment #6: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1531097/quizzes/2457414) in bCourses by March 2 at 11:59 p.m.
 
 </section>
 
