@@ -178,23 +178,18 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Feb. 26: More CSS
 
-- Preliminary lecture slides TBU
-
-{# 
-- [Preliminary lecture slides](./assets/static/lecture02-26_prelim.pdf)
+- [Lecture slides](./assets/static/lecture02-26.pdf) — updated with better examples of box model and overriding browser styling at the end!
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 02-26`
-- [Lesson materials](./assets/static/importingCSS.zip) #}
 
 #### Homework
 - Submit [Assignment #5: CSS](https://bcourses.berkeley.edu/courses/1531097/assignments/8712094) in bCourses by March 9 at 11:59 p.m.
 
-{# 
 #### Recommended
 - All [named color values](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color) available, via Mozilla
 - List of all [CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), with explanations on how to use. We're covering the most common in class.
 
 **Helpful Codecademy tutorials**
-- Codecademy: [CSS box model and layout](https://www.codecademy.com/learn/learn-css-box-model-and-layout) #}
+- Codecademy: [CSS box model and layout](https://www.codecademy.com/learn/learn-css-box-model-and-layout)
 
 </section>
 
