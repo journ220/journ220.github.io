@@ -179,8 +179,9 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 ### Feb. 26: More CSS
 
 - [Lecture slides](./assets/static/lecture02-26.pdf) — updated with better examples of box model and overriding browser styling at the end!
+  - [In-class activity](https://docs.google.com/presentation/d/1EEBjRCWeqGhO0u3mGntStByGXqZ3Itgy6MGzgEpODnk/edit) (read-only)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 02-26`
-
+ 
 #### Homework
 - Submit [Assignment #5: CSS](https://bcourses.berkeley.edu/courses/1531097/assignments/8712094) in bCourses by March 9 at 11:59 p.m.
 
