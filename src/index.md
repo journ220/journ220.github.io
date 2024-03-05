@@ -208,15 +208,12 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Mar. 4: Even more CSS + Review
  
-- Preliminary lecture slides TBU
-
-{# 
-- [Preliminary lecture slides](./assets/static/lecture03-04_prelim.pdf)
+- [Lecture slides](./assets/static/lecture03-04.pdf)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 03-04`
-- [Lesson materials](./assets/static/lecture_0306.zip) #}
+- [In-class materials](./assets/static/march4_inclass.zip)
 
 #### Homework
-- Submit [Assignment #6: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1531097/quizzes/2457414) in bCourses by March 2 at 11:59 p.m.
+- Submit [Assignment #6: Hand-code HTML #1](https://bcourses.berkeley.edu/courses/1531097/quizzes/2457414) in bCourses by March 9 at 11:59 p.m.
 
 </section>
 
