@@ -231,7 +231,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Mar. 11: More CSS / Wireframing
 
-- Preliminary lecture slides TBU
+- [Preliminary lecture slides](./assets/static/lecture03-11_prelim.pdf) 
 
 
 {# 
