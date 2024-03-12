@@ -230,23 +230,11 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 <section class="lecture" id="2024-03-11" data-date="2024-03-11">
 
 ### Mar. 11: More CSS / Wireframing
-
-- [Preliminary lecture slides](./assets/static/lecture03-11_prelim.pdf) 
-
-
-{# 
-- [Preliminary lecture slides](./assets/static/lecture03-11_prelim.pdf)  
+- [Lecture slides](./assets/static/lecture03-11.pdf)  
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 03-11` 
 
-- Homework review
-  - [Assignment 02-26: example website](./assets/static/assignment02-26.zip)
-  - [Assignment 03-04: CSS and grading criteria](https://docs.google.com/document/d/1XTdhlvu4-uFny8l8BwPO0TFdke_1FrJyzR9OT-q6DsQ/edit)
-- In-class exercise: [Make a simple portfolio](https://docs.google.com/document/d/1qG-Qx8P6aeD8kGvofbfF5Hs45EU9aVO8W-zvbf1TxEw/edit)
-#}
-
 #### Homework
-- Submit [Assignment #7: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1531097/assignments/) (not yet available) in bCourses by March 9 at 11:59 p.m.
-- Submit [Mid-semester feedback survey (extra credit)](https://bcourses.berkeley.edu/courses/1531097/assignments/8712100) in bCourses by March 16 at 11:59 pm.
+- Submit [Assignment #7: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1531097/assignments/) in bCourses by March 15 at 11:59 p.m.
 {# 
 #### Recommended for next week
 
