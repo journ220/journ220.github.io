@@ -260,10 +260,10 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Mar. 18: Layout and HTML frameworks
 
-- Preliminary lecture slides TBU
+- [Preliminary lecture slides](./assets/static/lecture03-18_prelim.pdf) | [in-class exercises](https://docs.google.com/presentation/d/1GRHuCPmheBae_uSflzVv95zjWbOYluLym_OdnDU4KGQ/edit)
+- Download lecture files: [lecture0318examples.zip](./assets/static/lecture0318examples.zip)
 
-
-{# - [Preliminary lecture slides](./assets/static/lecture03-18_prelim.pdf)
+{# 
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 03-18`
 - [Lesson materials](./assets/static/lecture_0320.zip)
 - For wireframes, you can use [wireframe.cc](https://wireframe.cc), Figma, Adobe Illustrator, Google Slides #}
