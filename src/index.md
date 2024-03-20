@@ -266,7 +266,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 #### Homework
 - [Anonymous mid-semester survey](https://bcourses.berkeley.edu/courses/1531097/quizzes/2457421) (extra credit) due in bCourses by March 23 at 11:59 p.m.
-- Submit [Assignment #8: Hand-code HTML #3](https://bcourses.berkeley.edu/courses/1531097/quizzes/2460448/) in bCourses by March 30 at 11:59 pm. [Download assets.](./assets/static/assignment8_assets.zip)
+- Submit [Assignment #8: Hand-code HTML #3](https://bcourses.berkeley.edu/courses/1531097/quizzes/2460448/) in bCourses by March 31 at 11:59 pm. [Download assets.](./assets/static/assignment8_assets.zip)
 - Book [office hours](https://bcourses.berkeley.edu/courses/1531097/assignments/8731937) before the end of March to discuss final project.
 
 </section>

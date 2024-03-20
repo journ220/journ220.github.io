@@ -1,0 +1,2 @@
+(()=>{var e;e=()=>{const e=document.querySelectorAll(".lecture"),t=new Date;e.forEach((e=>{const a=e.getAttribute("data-date");new Date(`${a}T17:00:00.0000-08:00`)<=t&&e.classList.add("passed")}))},"complete"===document.readyState||"interactive"===document.readyState?setTimeout(e,1):document.addEventListener("DOMContentLoaded",e)})();
+//# sourceMappingURL=main.f10aaa5b0277279a2d44.js.map
