@@ -234,15 +234,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 03-11` 
 
 #### Homework
-- Submit [Assignment #7: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1531097/assignments/) in bCourses by March 15 at 11:59 p.m.
-{# 
-#### Recommended for next week
-
-**Helpful Codecademy tutorials**
-- [CSS: display, position](https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning/)
-- [CSS: color](https://www.codecademy.com/courses/learn-css/lessons/color/)
-- [CSS: typography](https://www.codecademy.com/courses/learn-css/lessons/css-typography/)
-- [CSS: transitions, animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations) #}
+- Submit [Assignment #7: Hand-code HTML #2](https://bcourses.berkeley.edu/courses/1531097/quizzes/2456044) in bCourses by March 15 at 11:59 p.m.
 
 </section>
 
@@ -251,8 +243,6 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 
 {# ======== #}
-
-
 
 
 
@@ -269,6 +259,19 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - Submit [Assignment #8: Hand-code HTML #3](https://bcourses.berkeley.edu/courses/1531097/quizzes/2460448/) in bCourses by March 31 at 11:59 pm. [Download assets.](./assets/static/assignment8_assets.zip)
 - Book [office hours](https://bcourses.berkeley.edu/courses/1531097/assignments/8731937) before the end of March to discuss final project.
 
+
+
+{# 
+#### Recommended for next week
+
+**Helpful Codecademy tutorials**
+- [CSS: display, position](https://www.codecademy.com/courses/learn-css/lessons/css-display-positioning/)
+- [CSS: color](https://www.codecademy.com/courses/learn-css/lessons/color/)
+- [CSS: typography](https://www.codecademy.com/courses/learn-css/lessons/css-typography/)
+- [CSS: transitions, animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations) 
+
+#}
+
 </section>
 
 
@@ -276,7 +279,6 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 
 {# ======== #}
-
 
 
 
@@ -291,9 +293,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 
 
-
 {# ======== #}
-
 
 
 
@@ -302,27 +302,28 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Apr. 1: Advanced CSS; Basic JavaScript
 
-- Preliminary lecture slides TBU
-
-{# 
-- [Lecture materials](./assets/static/lecture04-01.zip)
-- [Preliminary lecture slides](./assets/static/lecture04-01_prelim.pdf)
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-01` #}
+- [Preliminary lecture slides](./assets/static/lecture04-01_prelim.pdf) | [lecture materials](./assets/static/lecture04-01.zip)
+- Hand-coding HTML/CSS guides
+  - [Assignment #6 guide](./assets/static/assignment6_guide.zip)
+  - [Assignment #7 guide](./assets/static/assignment7_guide.zip)
+  - [Assignment #8 guide](./assets/static/assignment8_guide.zip)
+  
+{# - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-01` #}
 
 {# 
 #### Helpful links
-
 - [Mozilla: CSS grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 - [Mozilla: CSS flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-- [Codecademy: CSS flexbox and grid](https://www.codecademy.com/learn/learn-css-flexbox-and-grid) #}
+- [Codecademy: CSS flexbox and grid](https://www.codecademy.com/learn/learn-css-flexbox-and-grid) 
+- #}
 
 
 #### Homework
-- Submit [Assignment #9: CSS / JavaScript](https://bcourses.berkeley.edu/courses/1531097/assignments/8712097) in bCourses by April 6 at 11:59 pm.
-- Submit final project [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by April 13 at 11:59pm. Available early so you can review the grading rubric as you think about the final project options.
+- If you didn't book [office hours](https://bcourses.berkeley.edu/courses/1531097/assignments/8731937) with Yoli or Soo in March, book before April 12 EOD for partial credit.
+- Submit [Assignment #9: CSS / JavaScript](https://bcourses.berkeley.edu/courses/1531097/assignments/8712097) in bCourses by April 7 at 11:59 pm.
+- Submit final project [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/assignments) in bCourses by April 14 at 11:59pm.
 
 </section>
-
 
 
 
@@ -366,7 +367,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 <section class="lecture" id="2024-04-15" data-date="2024-04-15">
 
-### Apr. 15: GitHub (and maybe Terminal) + Study Hall
+### Apr. 15: GitHub and Terminal + Study Hall
 
 - Preliminary lecture slides TBU
 
@@ -393,9 +394,9 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 <section class="lecture" id="2024-04-22" data-date="2024-04-22">
 
-### Apr. 22: Guest lecture TBD
+### Apr. 22: Career workshop + Study Hall
 
-- Preliminary lecture slides TBU
+- And food!
 
 
 #### Homework
