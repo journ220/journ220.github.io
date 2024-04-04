@@ -302,13 +302,12 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Apr. 1: Advanced CSS; Basic JavaScript
 
-- [Preliminary lecture slides](./assets/static/lecture04-01_prelim.pdf) | [lecture materials](./assets/static/lecture04-01.zip)
+- [Lecture slides](./assets/static/lecture04-01.pdf) | [lecture materials](./assets/static/lecture04-01.zip)
 - Hand-coding HTML/CSS guides
   - [Assignment #6 guide](./assets/static/assignment6_guide.zip)
   - [Assignment #7 guide](./assets/static/assignment7_guide.zip)
   - [Assignment #8 guide](./assets/static/assignment8_guide.zip)
-  
-{# - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-01` #}
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-01` (parts 1 and 2)
 
 {# 
 #### Helpful links
