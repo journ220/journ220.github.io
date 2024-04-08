@@ -337,16 +337,14 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Apr. 8: More JavaScript
 
-- Preliminary lecture slides TBU
-
+- [Preliminary lecture slides](./assets/static/lecture04-08_prelim.pdf)
+- [Lecture materials](./assets/static/lecture0408examples.zip)
 
 {# 
-- [Preliminary lecture slides](./assets/static/lecture04-08_prelim.pdf)
-- [Lecture materials](./assets/static/lecture04-08.zip)
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-08` #}
 
 #### Homework
-- Submit [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/assignments) (not yet available) in bCourses by April 13 at 11:59pm. 
+- Submit [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/quizzes/2456054) in bCourses by April 14 at 11:59pm. 
 {# 
 **Optional**
 - [Codecademy: Build interactive websites](https://www.codecademy.com/learn/build-interactive-websites)
@@ -376,7 +374,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 - Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-08: Part I`, `Lecture 04-08: Part II` and `Lecture 04-08: Part III` #}
 
 #### Homework
-- Submit [Assignment #10: Progress](https://bcourses.berkeley.edu/courses/1531097/assignments/8712117) in bCourses by April 20 at 11:59 pm.
+- Submit [Assignment #10: Progress](https://bcourses.berkeley.edu/courses/1531097/assignments/8712117) in bCourses by April 21 at 11:59 pm.
 {#- Do you have any questions you'd like to ask our April 24 guest panel? Add questions to the [bottom of this Google Doc](https://docs.google.com/document/d/1Qi3Yvu77hzQ4FWqKHeUJ-12rkQXWKB4DqmACEqodwfU/edit#heading=h.pmxy10z9sjf3) (you need to be logged into your Berkeley account to suggest questions).#}
 
 </section>
@@ -399,7 +397,7 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 
 #### Homework
-- Submit [Assignment #11: Progress](https://bcourses.berkeley.edu/courses/1531097/assignments/8712099) in bCourses by April 20 at 11:59 pm.
+- Project presentations next week
 
 </section>
 
