@@ -337,11 +337,9 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Apr. 8: More JavaScript
 
-- [Preliminary lecture slides](./assets/static/lecture04-08_prelim.pdf)
+- [Lecture slides](./assets/static/lecture04-08.pdf)
 - [Lecture materials](./assets/static/lecture0408examples.zip)
-
-{# 
-- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-08` #}
+- Lecture recording is in [bCourses' Media Gallery](https://bcourses.berkeley.edu/courses/1531097/external_tools/90481) as `Lecture 04-08`
 
 #### Homework
 - Submit [Final project: Wireframe](https://bcourses.berkeley.edu/courses/1531097/quizzes/2456054) in bCourses by April 14 at 11:59pm. 
