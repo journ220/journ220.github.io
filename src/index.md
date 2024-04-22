@@ -391,7 +391,8 @@ We don't have lecture next week! You can catch up with HTML or get ahead on CSS 
 
 ### Apr. 22: Career workshop + Study Hall
 
-- And food!
+- [Slides](./assets/static/lecture04-22.pdf)
+- And pizza!
 
 
 #### Homework
